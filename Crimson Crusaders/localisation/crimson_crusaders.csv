@@ -1,0 +1,19 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+crimson_demon;Crimson Demon;;;;;;;;;;;;;
+crimson_demonc;Crimson Demon;;;;;;;;;;;;;
+crimson_mage;Crimson Mage;;;;;;;;;;;;;
+PIETY_MANA;Mana;;;;;;;;;;;;;
+CRIMSON_MAGE_TITLE;Crimson Mage;;;;;;;;;;;;;
+god_eris;Eris;;;;;;;;;;;;;
+god_demon_lord;Demon Lord;;;;;;;;;;;;;
+explosion;Explosion Magic;;;;;;;;;;;;;
+explosion_desc;This character is trained in deadly explosion magic.;;;;;;;;;;;;;
+explosion_magic_learn;Learn Explosion Magic;;;;;;;;;;;;;
+explosion_magic_learn_desc;As a Crimson Mage you can learn explosion magic.;;;;;;;;;;;;;
+STAT_PIETY_PIETY_MANA;Mana;;;;;;;;;;;;;
+god_aqua;Aqua;;;;;;;;;;;;;
+god_regina;Regina;;;;;;;;;;;;;
+god_wolbach;Wolback;;;;;;;;;;;;;
+CM.1_button;Bakuretsu Bakuretsu La la la!;;;;;;;;;;;;;
+CMDESC_1;I've learned explosion magic.;;;;;;;;;;;;;
+EVTTITLE_CM_EXPLOSION;Bakuretsu;;;;;;;;;;;;;

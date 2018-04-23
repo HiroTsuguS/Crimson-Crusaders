@@ -1,0 +1,17 @@
+spriteTypes = {
+spriteType = {
+		name = "GFX_trait_explosion"
+		texturefile = "gfx/traits/explosion.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	}
+	
+	spriteTypes = {
+  spriteType = {
+    name = "GFX_explosion_magic_learn"
+    texturefile = "gfx\\interface\\learn_explosion_icon.dds"
+  }
+
+}

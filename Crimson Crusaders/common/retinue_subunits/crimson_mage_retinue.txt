@@ -1,0 +1,45 @@
+RETTYPE_CUL_MAGE = 
+{
+	first_type = 5
+	first_amount = 10
+	second_type = 2
+	second_amount = 500
+	
+	potential = {
+		is_nomadic = no
+		OR = {
+			culture = crimson_demonc
+			religion = crimson_mage
+		}
+	}
+	
+	modifier = {
+		archers_offensive = 1.0
+		archers_defensive = -0.5
+		pikemen_offensive = -0.5
+		pikemen_defensive = 0.75
+	}
+}
+
+RETTYPE_CUL_MAGE2 = 
+{
+	first_type = 5
+	first_amount = 5
+	second_type = 2
+	second_amount = 250
+	
+	potential = {
+		is_nomadic = no
+		OR = {
+			culture = crimson_demonc
+			religion = crimson_mage
+		}
+	}
+	
+	modifier = {
+		archers_offensive = 1.0
+		archers_defensive = -0.5
+		pikemen_offensive = -0.5
+		pikemen_defensive = 0.75
+	}
+}

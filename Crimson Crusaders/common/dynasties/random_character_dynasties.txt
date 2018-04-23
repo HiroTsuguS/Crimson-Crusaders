@@ -1,0 +1,6830 @@
+### Tohoku Names
+
+## Northern Oshu
+
+# Mutsu, Nanbu and Tsugaru
+
+15000 = {
+	name="Oura"
+	culture = crimson_demonc
+}
+
+1500001 = {
+	name="Tsushima"
+	culture = crimson_demonc
+}
+
+1500002 = {
+	name="Numata"
+	culture = crimson_demonc
+}
+
+1500003 = {
+	name="Sannohe"
+	culture = crimson_demonc
+}
+
+1500004 = {
+	name="Hachinohe"
+	culture = crimson_demonc
+}
+
+1500005 = {
+	name="Kennyoshi"
+	culture = crimson_demonc
+}
+
+1500006 = {
+	name="Kon"
+	culture = crimson_demonc
+}
+
+1500007 = {
+	name="Kanehira"
+	culture = crimson_demonc
+}
+
+1500008 = {
+	name="Nishidate"
+	culture = crimson_demonc
+}
+
+1500009 = {
+	name="Shichinohe"
+	culture = crimson_demonc
+}
+
+1500010 = {
+	name="Kenai"
+	culture = crimson_demonc
+}
+
+1500011 = {
+	name="Rokunohe"
+	culture = crimson_demonc
+}
+
+1500012 = {
+	name="Kunohe"
+	culture = crimson_demonc
+}
+
+1500013 = {
+	name="Ichinohe"
+	culture = crimson_demonc
+}
+
+1500014 = {
+	name="Kindaichi"
+	culture = crimson_demonc
+}
+
+# Rikuchu, Nanbu
+
+1500015 = {
+	name="Daikoji"
+	culture = crimson_demonc
+}
+
+1500016 = {
+	name="Niida"
+	culture = crimson_demonc
+}
+
+1500017 = {
+	name="kita"
+	culture = crimson_demonc
+}
+
+1500018 = {
+	name="Kemanai"
+	culture = crimson_demonc
+}
+
+1500019 = {
+	name="Koesashi"
+	culture = crimson_demonc
+}
+
+1500015000 = {
+	name="Shibauti"
+	culture = crimson_demonc
+}
+
+1500021 = {
+	name="Kuji"
+	culture = crimson_demonc
+}
+
+1500022 = {
+	name="Noda"
+	culture = crimson_demonc
+}
+
+1500023 = {
+	name="Karumai"
+	culture = crimson_demonc
+}
+
+1500024 = {
+	name="Takusari"
+	culture = crimson_demonc
+}
+
+1500025 = {
+	name="Yonai"
+	culture = crimson_demonc
+}
+
+1500026 = {
+	name="Sentoku"
+	culture = crimson_demonc
+}
+
+1500027 = {
+	name="Kujibiki"
+	culture = crimson_demonc
+}
+
+1500028 = {
+	name="Kujibiki"
+	culture = crimson_demonc
+}
+
+1500029 = {
+	name="Nagaushi"
+	culture = crimson_demonc
+}
+
+1500030 = {
+	name="Onodera"
+	culture = crimson_demonc
+}
+
+1500031 = {
+	name="Minami"
+	culture = crimson_demonc
+}
+
+1500032 = {
+	name="Higashi"
+	culture = crimson_demonc
+}
+
+1500033 = {
+	name="Nishi"
+	culture = crimson_demonc
+}
+
+1500034 = {
+	name="Sasaki"
+	culture = crimson_demonc
+}
+
+1500035 = {
+	name="Sakuraba"
+	culture = crimson_demonc
+}
+
+1500036 = {
+	name="Oyu"
+	culture = crimson_demonc
+}
+
+1500037 = {
+	name="Kuzumaki"
+	culture = crimson_demonc
+}
+
+1500038 = {
+	name="Ishii"
+	culture = crimson_demonc
+}
+
+1500039 = {
+	name="Isawa"
+	culture = crimson_demonc
+}
+
+1500040 = {
+	name="Hinoto"
+	culture = crimson_demonc
+}
+
+1500041 = {
+	name="Ezashi"
+	culture = crimson_demonc
+}
+
+## Southern Oshu
+
+# Iwashiro, Ashina
+
+1500042 = {
+	name="Hariu"
+	culture = crimson_demonc
+}
+
+1500043 = {
+	name="Matsumoto"
+	culture = crimson_demonc
+}
+
+1500044 = {
+	name="Hirata"
+	culture = crimson_demonc
+}
+
+1500045 = {
+	name="Sase"
+	culture = crimson_demonc
+}
+
+1500046 = {
+	name="Tonda"
+	culture = crimson_demonc
+}
+
+1500047 = {
+	name="Hatakeyama"
+	culture = crimson_demonc
+}
+
+1500048 = {
+	name="Ouchi"
+	culture = crimson_demonc
+}
+
+1500049 = {
+	name="Katahira"
+	culture = crimson_demonc
+}
+
+1500050 = {
+	name="Ota"
+	culture = crimson_demonc
+}
+
+1500051 = {
+	name="Kawarada"
+	culture = crimson_demonc
+}
+
+1500052 = {
+	name="Azumi"
+	culture = crimson_demonc
+}
+
+1500053 = {
+	name="Izumida"
+	culture = crimson_demonc
+}
+
+1500054 = {
+	name="Nishiotachi"
+	culture = crimson_demonc
+}
+
+1500055 = {
+	name="Otachime"
+	culture = crimson_demonc
+}
+
+1500056 = {
+	name="Naganuma"
+	culture = crimson_demonc
+}
+
+# Kokubun, Tamura and Rusu
+
+1500057 = {
+	name="Tamogami"
+	culture = crimson_demonc
+}
+
+1500058 = {
+	name="Gunji"
+	culture = crimson_demonc
+}
+
+1500059 = {
+	name="Kokubun"
+	culture = crimson_demonc
+}
+
+1500060 = {
+	name="Kaketa"
+	culture = crimson_demonc
+}
+
+1500061 = {
+	name="Ayugai"
+	culture = crimson_demonc
+}
+
+1500062 = {
+	name="Yokosawa"
+	culture = crimson_demonc
+}
+
+1500063 = {
+	name="Tokoha"
+	culture = crimson_demonc
+}
+
+1500064 = {
+	name="Hamazaki"
+	culture = crimson_demonc
+}
+
+1500065 = {
+	name="Miyota"
+	culture = crimson_demonc
+}
+
+# Iwaki, Soma
+
+1500066 = {
+	name="Shiroishi"
+	culture = crimson_demonc
+}
+
+1500067 = {
+	name="Horiuchi"
+	culture = crimson_demonc
+}
+
+1500068 = {
+	name="Okada"
+	culture = crimson_demonc
+}
+
+1500069 = {
+	name="Izumi"
+	culture = crimson_demonc
+}
+
+1500070 = {
+	name="Kadoma"
+	culture = crimson_demonc
+}
+
+1500071 = {
+	name="Osuga"
+	culture = crimson_demonc
+}
+
+1500072 = {
+	name="Watari"
+	culture = crimson_demonc
+}
+
+1500073 = {
+	name="Takahira"
+	culture = crimson_demonc
+}
+
+1500074 = {
+	name="Kumagami"
+	culture = crimson_demonc
+}
+
+1500075 = {
+	name="Ogame"
+	culture = crimson_demonc
+}
+
+1500076 = {
+	name="Nakamura"
+	culture = crimson_demonc
+}
+
+1500077 = {
+	name="Mizutani"
+	culture = crimson_demonc
+}
+
+1500078 = {
+	name="Aota"
+	culture = crimson_demonc
+}
+
+1500079 = {
+	name="Kibata"
+	culture = crimson_demonc
+}
+
+1500080 = {
+	name="Okuyama"
+	culture = crimson_demonc
+}
+
+1500081 = {
+	name="Memesawa"
+	culture = crimson_demonc
+}
+
+1500082 = {
+	name="Iizaki"
+	culture = crimson_demonc
+}
+
+1500083 = {
+	name="Kuroki"
+	culture = crimson_demonc
+}
+
+1500084 = {
+	name="Fujita"
+	culture = crimson_demonc
+}
+
+1500085 = {
+	name="Kusano"
+	culture = crimson_demonc
+}
+
+1500086 = {
+	name="Kurabeishi"
+	culture = crimson_demonc
+}
+
+# Rikuzen, Kasai
+
+1500087 = {
+	name="Teraike"
+	culture = crimson_demonc
+}
+
+1500088 = {
+	name="Yoneya"
+	culture = crimson_demonc
+}
+
+1500089 = {
+	name="Niinuma"
+	culture = crimson_demonc
+}
+
+1500090 = {
+	name="Nishidate"
+	culture = crimson_demonc
+}
+
+1500091 = {
+	name="Akaiwa"
+	culture = crimson_demonc
+}
+
+1500092 = {
+	name="Oikawa"
+	culture = crimson_demonc
+}
+
+1500093 = {
+	name="Terazaki"
+	culture = crimson_demonc
+}
+
+1500094 = {
+	name="Otsuki"
+	culture = crimson_demonc
+}
+
+1500095 = {
+	name="Monou"
+	culture = crimson_demonc
+}
+
+1500096 = {
+	name="Kanazawa"
+	culture = crimson_demonc
+}
+
+1500097 = {
+	name="Imaizumi"
+	culture = crimson_demonc
+}
+
+1500098 = {
+	name="Suenaga"
+	culture = crimson_demonc
+}
+
+1500099 = {
+	name="Nitobe"
+	culture = crimson_demonc
+}
+
+2100 = {
+	name="Ishinomori"
+	culture = crimson_demonc
+}
+
+2101 = {
+	name="Oniyanagi"
+	culture = crimson_demonc
+}
+
+2102 = {
+	name="Kon"
+	culture = crimson_demonc
+}
+
+2103 = {
+	name="Sawabe"
+	culture = crimson_demonc
+}
+
+2104 = {
+	name="Waga"
+	culture = crimson_demonc
+}
+
+2105 = {
+	name="Tsurutate"
+	culture = crimson_demonc
+}
+
+2106 = {
+	name="Hondo"
+	culture = crimson_demonc
+}
+
+2107 = {
+	name="Kannari"
+	culture = crimson_demonc
+}
+
+2108 = {
+	name="Yonekura"
+	culture = crimson_demonc
+}
+
+2109 = {
+	name="Higata"
+	culture = crimson_demonc
+}
+
+2110 = {
+	name="Echigawa"
+	culture = crimson_demonc
+}
+
+2111 = {
+	name="Esashi"
+	culture = crimson_demonc
+}
+
+2112 = {
+	name="Hienuki"
+	culture = crimson_demonc
+}
+
+2113 = {
+	name="Hamata"
+	culture = crimson_demonc
+}
+
+## crimson_demonc
+
+# Uzen, Date, Mogami and Sagae
+
+2114 = {
+	name="Hazekura"
+	culture = crimson_demonc
+}
+
+2115 = {
+	name="Iisaka"
+	culture = crimson_demonc
+}
+
+2116 = {
+	name="Nakano"
+	culture = crimson_demonc
+}
+
+2117 = {
+	name="Shimizu"
+	culture = crimson_demonc
+}
+
+2118 = {
+	name="Sakenobe"
+	culture = crimson_demonc
+}
+
+2119 = {
+	name="Tateyama"
+	culture = crimson_demonc
+}
+
+2115000 = {
+	name="Tendo"
+	culture = crimson_demonc
+}
+
+2121 = {
+	name="Sagae"
+	culture = crimson_demonc
+}
+
+2122 = {
+	name="Tateoka"
+	culture = crimson_demonc
+}
+
+2123 = {
+	name="Aterazawa"
+	culture = crimson_demonc
+}
+
+2124 = {
+	name="Shibahashi"
+	culture = crimson_demonc
+}
+
+2125 = {
+	name="Shiraiwa"
+	culture = crimson_demonc
+}
+
+2126 = {
+	name="Ayukai"
+	culture = crimson_demonc
+}
+
+2127 = {
+	name="Ujiie"
+	culture = crimson_demonc
+}
+
+2128 = {
+	name="Kitatate"
+	culture = crimson_demonc
+}
+
+2129 = {
+	name="Misawa"
+	culture = crimson_demonc
+}
+
+2130 = {
+	name="Shimura"
+	culture = crimson_demonc
+}
+
+2131 = {
+	name="Endo"
+	culture = crimson_demonc
+}
+
+# Ugo, Mogami, Tozawa and Ando
+
+2132 = {
+	name="Minato"
+	culture = crimson_demonc
+}
+
+2133 = {
+	name="Yamana"
+	culture = crimson_demonc
+}
+
+2134 = {
+	name="Naraoka"
+	culture = crimson_demonc
+}
+
+2135 = {
+	name="Yoshitaka"
+	culture = crimson_demonc
+}
+
+2136 = {
+	name="Kadoya"
+	culture = crimson_demonc
+}
+
+2137 = {
+	name="Tagaya"
+	culture = crimson_demonc
+}
+
+2138 = {
+	name="Shizukuishi"
+	culture = crimson_demonc
+}
+
+2139 = {
+	name="Hondo"
+	culture = crimson_demonc
+}
+
+2140 = {
+	name="Yatsuyanagi"
+	culture = crimson_demonc
+}
+
+2141 = {
+	name="Yokote"
+	culture = crimson_demonc
+}
+
+2142 = {
+	name="Nishimonai"
+	culture = crimson_demonc
+}
+
+2143 = {
+	name="Inaniwa"
+	culture = crimson_demonc
+}
+
+2144 = {
+	name="Nikaho"
+	culture = crimson_demonc
+}
+
+2145 = {
+	name="Mikami"
+	culture = crimson_demonc
+}
+
+2146 = {
+	name="Kameda"
+	culture = crimson_demonc
+}
+
+2147 = {
+	name="Metoki"
+	culture = crimson_demonc
+}
+
+2148 = {
+	name="Adachi"
+	culture = crimson_demonc
+}
+
+2149 = {
+	name="Okubo"
+	culture = crimson_demonc
+}
+
+### Hokuriku Names
+
+## Western Hokuriku, Asakura
+
+2150 = {
+	name="Mizoe"
+	culture = crimson_demonc
+}
+
+2151 = {
+	name="Aoki"
+	culture = crimson_demonc
+}
+
+2152 = {
+	name="Uno"
+	culture = crimson_demonc
+}
+
+2153 = {
+	name="Tsuruga"
+	culture = crimson_demonc
+}
+
+2154 = {
+	name="Kehi"
+	culture = crimson_demonc
+}
+
+2155 = {
+	name="Hiraizumi"
+	culture = crimson_demonc
+}
+
+2156 = {
+	name="Uozumi"
+	culture = crimson_demonc
+}
+
+2157 = {
+	name="Kanemaki"
+	culture = crimson_demonc
+}
+
+2158 = {
+	name="Kurosawa"
+	culture = crimson_demonc
+}
+
+2159 = {
+	name="Koizumi"
+	culture = crimson_demonc
+}
+
+2160 = {
+	name="Magara"
+	culture = crimson_demonc
+}
+
+2161 = {
+	name="Togano"
+	culture = crimson_demonc
+}
+
+2162 = {
+	name="Horie"
+	culture = crimson_demonc
+}
+
+2163 = {
+	name="Mikuni"
+	culture = crimson_demonc
+}
+
+2164 = {
+	name="Yamazaki"
+	culture = crimson_demonc
+}
+
+2165 = {
+	name="Maeba"
+	culture = crimson_demonc
+}
+
+2166 = {
+	name="Torii"
+	culture = crimson_demonc
+}
+
+2167 = {
+	name="Akaza"
+	culture = crimson_demonc
+}
+
+2168 = {
+	name="Takahashi"
+	culture = crimson_demonc
+}
+
+2169 = {
+	name="Tsuda"
+	culture = crimson_demonc
+}
+
+2170 = {
+	name="Kawai"
+	culture = crimson_demonc
+}
+
+2171 = {
+	name="Ikue"
+	culture = crimson_demonc
+}
+
+2172 = {
+	name="Ato"
+	culture = crimson_demonc
+}
+
+2173 = {
+	name="Yagi"
+	culture = crimson_demonc
+}
+
+# Kaga and Noto, Togashi and Hatakeyama
+
+2174 = {
+	name="Kai"
+	culture = crimson_demonc
+}
+
+2175 = {
+	name="Tsubata"
+	culture = crimson_demonc
+}
+
+2176 = {
+	name="Matsunami"
+	culture = crimson_demonc
+}
+
+2177 = {
+	name="Togashi"
+	culture = crimson_demonc
+}
+
+2178 = {
+	name="Kaburagi"
+	culture = crimson_demonc
+}
+
+2179 = {
+	name="Matsuto"
+	culture = crimson_demonc
+}
+
+2180 = {
+	name="Iikawa"
+	culture = crimson_demonc
+}
+
+2181 = {
+	name="Yusa"
+	culture = crimson_demonc
+}
+
+2182 = {
+	name="Nukui"
+	culture = crimson_demonc
+}
+
+2183 = {
+	name="Amano"
+	culture = crimson_demonc
+}
+
+2184 = {
+	name="Miyake"
+	culture = crimson_demonc
+}
+
+2185 = {
+	name="Cho"
+	culture = crimson_demonc
+}
+
+2186 = {
+	name="Madate"
+	culture = crimson_demonc
+}
+
+2187 = {
+	name="Inoue"
+	culture = crimson_demonc
+}
+
+2188 = {
+	name="Sawaki"
+	culture = crimson_demonc
+}
+
+## Hokuriku buddhist, Honganji
+
+2189 = {
+	name="Suzuki"
+	culture = crimson_demonc
+}
+
+2190 = {
+	name="Sugiura"
+	culture = crimson_demonc
+}
+
+2191 = {
+	name="Kubota"
+	culture = crimson_demonc
+}
+
+2192 = {
+	name="Shimotsuma"
+	culture = crimson_demonc
+}
+
+2193 = {
+	name="Uno"
+	culture = crimson_demonc
+}
+
+2194 = {
+	name="Shichiri"
+	culture = crimson_demonc
+}
+
+2195 = {
+	name="Ganchoji"
+	culture = crimson_demonc
+}
+
+2196 = {
+	name="Saikoji"
+	culture = crimson_demonc
+}
+
+2197 = {
+	name="Bukkoji"
+	culture = crimson_demonc
+}
+
+2198 = {
+	name="Senshuji"
+	culture = crimson_demonc
+}
+
+2199 = {
+	name="Zuisenji"
+	culture = crimson_demonc
+}
+
+2150000 = {
+	name="Kinshikiji"
+	culture = crimson_demonc
+}
+
+## Eastern Hokuriku
+
+# Etchu, Jinbo
+
+2150001 = {
+	name="Momoi"
+	culture = crimson_demonc
+}
+
+2150002 = {
+	name="Hayashi"
+	culture = crimson_demonc
+}
+
+2150003 = {
+	name="Miyazaki"
+	culture = crimson_demonc
+}
+
+2150004 = {
+	name="Terajima"
+	culture = crimson_demonc
+}
+
+2150005 = {
+	name="Nozaki"
+	culture = crimson_demonc
+}
+
+2150006 = {
+	name="Kojima"
+	culture = crimson_demonc
+}
+
+2150007 = {
+	name="Horie"
+	culture = crimson_demonc
+}
+
+2150008 = {
+	name="Yuminosho"
+	culture = crimson_demonc
+}
+
+2150009 = {
+	name="Kojima"
+	culture = crimson_demonc
+}
+
+2210 = {
+	name="Jinbo"
+	culture = crimson_demonc
+}
+
+2211 = {
+	name="Shioi"
+	culture = crimson_demonc
+}
+
+2212 = {
+	name="Ninomiya"
+	culture = crimson_demonc
+}
+
+2213 = {
+	name="Kurakawa"
+	culture = crimson_demonc
+}
+
+2214 = {
+	name="Uda"
+	culture = crimson_demonc
+}
+
+2215 = {
+	name="Kosugi"
+	culture = crimson_demonc
+}
+
+2216 = {
+	name="Yuyama"
+	culture = crimson_demonc
+}
+
+2217 = {
+	name="Fukumitsu"
+	culture = crimson_demonc
+}
+
+2218 = {
+	name="Kikuchi"
+	culture = crimson_demonc
+}
+
+2219 = {
+	name="Toide"
+	culture = crimson_demonc
+}
+
+2215000 = {
+	name="Mitsukoshi"
+	culture = crimson_demonc
+}
+
+2221 = {
+	name="Ishiguro"
+	culture = crimson_demonc
+}
+
+2222 = {
+	name="Saito"
+	culture = crimson_demonc
+}
+
+2223 = {
+	name="Kameyama"
+	culture = crimson_demonc
+}
+
+2224 = {
+	name="Nojiri"
+	culture = crimson_demonc
+}
+
+# Echigo, Nagao
+
+2225 = {
+	name="Naoe"
+	culture = crimson_demonc
+}
+
+2226 = {
+	name="Kakizaki"
+	culture = crimson_demonc
+}
+
+2227 = {
+	name="Takada"
+	culture = crimson_demonc
+}
+
+2228 = {
+	name="Takatsu"
+	culture = crimson_demonc
+}
+
+2229 = {
+	name="Iino"
+	culture = crimson_demonc
+}
+
+2230 = {
+	name="Nakajo"
+	culture = crimson_demonc
+}
+
+2231 = {
+	name="Honjo"
+	culture = crimson_demonc
+}
+
+2232 = {
+	name="Kitajo"
+	culture = crimson_demonc
+}
+
+2233 = {
+	name="Yoshine"
+	culture = crimson_demonc
+}
+
+2234 = {
+	name="Kurokawa"
+	culture = crimson_demonc
+}
+
+2235 = {
+	name="Shibata"
+	culture = crimson_demonc
+}
+
+2236 = {
+	name="Kaji"
+	culture = crimson_demonc
+}
+
+2237 = {
+	name="Ikarashi"
+	culture = crimson_demonc
+}
+
+2238 = {
+	name="Usami"
+	culture = crimson_demonc
+}
+
+2239 = {
+	name="Sanjo"
+	culture = crimson_demonc
+}
+
+2240 = {
+	name="Irobe"
+	culture = crimson_demonc
+}
+
+2241 = {
+	name="Kanagami"
+	culture = crimson_demonc
+}
+
+2242 = {
+	name="Takemata"
+	culture = crimson_demonc
+}
+
+2243 = {
+	name="Kamijo"
+	culture = crimson_demonc
+}
+
+2244 = {
+	name="Shimojo"
+	culture = crimson_demonc
+}
+
+2245 = {
+	name="Yasuda"
+	culture = crimson_demonc
+}
+
+2246 = {
+	name="Nagao"
+	culture = crimson_demonc
+}
+
+2247 = {
+	name="Ishikawa"
+	culture = crimson_demonc
+}
+
+2248 = {
+	name="Akimoto"
+	culture = crimson_demonc
+}
+
+2249 = {
+	name="Haguro"
+	culture = crimson_demonc
+}
+
+2250 = {
+	name="Sekisawa"
+	culture = crimson_demonc
+}
+
+2251 = {
+	name="Shimodaira"
+	culture = crimson_demonc
+}
+
+2252 = {
+	name="Ayukawa"
+	culture = crimson_demonc
+}
+
+2253 = {
+	name="Oguri"
+	culture = crimson_demonc
+}
+
+2254 = {
+	name="Chisaka"
+	culture = crimson_demonc
+}
+
+2255 = {
+	name="Amakasu"
+	culture = crimson_demonc
+}
+
+2256 = {
+	name="Karazaki"
+	culture = crimson_demonc
+}
+
+2257 = {
+	name="Okuma"
+	culture = crimson_demonc
+}
+
+# Sado, Nagao
+
+2258 = {
+	name="Sanbonji"
+	culture = crimson_demonc
+}
+
+2259 = {
+	name="Ike"
+	culture = crimson_demonc
+}
+
+2260 = {
+	name="Yamayoshi"
+	culture = crimson_demonc
+}
+
+## Northern Kanto
+
+# Hitachi, Satake
+
+2261 = {
+	name="Tomura"
+	culture = crimson_demonc
+}
+
+2262 = {
+	name="Shishido"
+	culture = crimson_demonc
+}
+
+2263 = {
+	name="Oguri"
+	culture = crimson_demonc
+}
+
+2264 = {
+	name="Ishizuka"
+	culture = crimson_demonc
+}
+
+2265 = {
+	name="Onuki"
+	culture = crimson_demonc
+}
+
+2266 = {
+	name="Umezu"
+	culture = crimson_demonc
+}
+
+2267 = {
+	name="Ota"
+	culture = crimson_demonc
+}
+
+2268 = {
+	name="Chinone"
+	culture = crimson_demonc
+}
+
+2269 = {
+	name="Yorigami"
+	culture = crimson_demonc
+}
+
+2270 = {
+	name="Nukada"
+	culture = crimson_demonc
+}
+
+2271 = {
+	name="Nagakura"
+	culture = crimson_demonc
+}
+
+2272 = {
+	name="Ishigami"
+	culture = crimson_demonc
+}
+
+2273 = {
+	name="Kuruma"
+	culture = crimson_demonc
+}
+
+2274 = {
+	name="Wada"
+	culture = crimson_demonc
+}
+
+2275 = {
+	name="Sukegawa"
+	culture = crimson_demonc
+}
+
+2276 = {
+	name="Tagaya"
+	culture = crimson_demonc
+}
+
+2277 = {
+	name="Makabe"
+	culture = crimson_demonc
+}
+
+2278 = {
+	name="Funao"
+	culture = crimson_demonc
+}
+
+2279 = {
+	name="Aou"
+	culture = crimson_demonc
+}
+
+2280 = {
+	name="Shibue"
+	culture = crimson_demonc
+}
+
+2281 = {
+	name="Yuki"
+	culture = crimson_demonc
+}
+
+2282 = {
+	name="Oda"
+	culture = crimson_demonc
+}
+
+2283 = {
+	name="Kawai"
+	culture = crimson_demonc
+}
+
+2284 = {
+	name="Edo"
+	culture = crimson_demonc
+}
+
+2285 = {
+	name="Tamatsukuri"
+	culture = crimson_demonc
+}
+
+2286 = {
+	name="Aso"
+	culture = crimson_demonc
+}
+
+2287 = {
+	name="Shimazaki"
+	culture = crimson_demonc
+}
+
+2288 = {
+	name="Yamairi"
+	culture = crimson_demonc
+}
+
+2289 = {
+	name="Sudo"
+	culture = crimson_demonc
+}
+
+2290 = {
+	name="Odano"
+	culture = crimson_demonc
+}
+
+2291 = {
+	name="Sakaide"
+	culture = crimson_demonc
+}
+
+2292 = {
+	name="Oze"
+	culture = crimson_demonc
+}
+
+2293 = {
+	name="Serizawa"
+	culture = crimson_demonc
+}
+
+# Shimotsuke, Utsunomiya
+
+2294 = {
+	name="Utsunomiya"
+	culture = crimson_demonc
+}
+
+2295 = {
+	name="Okamoto"
+	culture = crimson_demonc
+}
+
+2296 = {
+	name="Takou"
+	culture = crimson_demonc
+}
+
+2297 = {
+	name="Itakura"
+	culture = crimson_demonc
+}
+
+2298 = {
+	name="Nasu"
+	culture = crimson_demonc
+}
+
+2299 = {
+	name="Fukuwara"
+	culture = crimson_demonc
+}
+
+2300 = {
+	name="Haga"
+	culture = crimson_demonc
+}
+
+2301 = {
+	name="Yagioka"
+	culture = crimson_demonc
+}
+
+2302 = {
+	name="Senbon"
+	culture = crimson_demonc
+}
+
+2303 = {
+	name="Mumo"
+	culture = crimson_demonc
+}
+
+2304 = {
+	name="Yokota"
+	culture = crimson_demonc
+}
+
+2305 = {
+	name="Osawa"
+	culture = crimson_demonc
+}
+
+2306 = {
+	name="Shioya"
+	culture = crimson_demonc
+}
+
+2307 = {
+	name="Kasama"
+	culture = crimson_demonc
+}
+
+2308 = {
+	name="Yaita"
+	culture = crimson_demonc
+}
+
+2309 = {
+	name="Akimoto"
+	culture = crimson_demonc
+}
+
+2310 = {
+	name="Sano"
+	culture = crimson_demonc
+}
+
+2311 = {
+	name="Asonuma"
+	culture = crimson_demonc
+}
+
+2312 = {
+	name="Kanuma"
+	culture = crimson_demonc
+}
+
+2313 = {
+	name="Ishii"
+	culture = crimson_demonc
+}
+
+2314 = {
+	name="Osakabe"
+	culture = crimson_demonc
+}
+
+2315 = {
+	name="Oyama"
+	culture = crimson_demonc
+}
+
+2316 = {
+	name="Mibu"
+	culture = crimson_demonc
+}
+
+2317 = {
+	name="Minagawa"
+	culture = crimson_demonc
+}
+
+## Eastern Kanto
+
+# Shimousa, Chiba
+
+2318 = {
+	name="Yamamuro"
+	culture = crimson_demonc
+}
+
+2319 = {
+	name="Ida"
+	culture = crimson_demonc
+}
+
+2315000 = {
+	name="Shirai"
+	culture = crimson_demonc
+}
+
+2321 = {
+	name="Yuki"
+	culture = crimson_demonc
+}
+
+2322 = {
+	name="Kiuchi"
+	culture = crimson_demonc
+}
+
+2323 = {
+	name="Kokubu"
+	culture = crimson_demonc
+}
+
+2324 = {
+	name="Takaki"
+	culture = crimson_demonc
+}
+
+2325 = {
+	name="Shinoda"
+	culture = crimson_demonc
+}
+
+2326 = {
+	name="Noda"
+	culture = crimson_demonc
+}
+
+2327 = {
+	name="Hiranaka"
+	culture = crimson_demonc
+}
+
+2328 = {
+	name="Hara"
+	culture = crimson_demonc
+}
+
+2329 = {
+	name="Oshida"
+	culture = crimson_demonc
+}
+
+2330 = {
+	name="Ino"
+	culture = crimson_demonc
+}
+
+2331 = {
+	name="Makuwari"
+	culture = crimson_demonc
+}
+
+2332 = {
+	name="Enjoji"
+	culture = crimson_demonc
+}
+
+2333 = {
+	name="Usui"
+	culture = crimson_demonc
+}
+
+2334 = {
+	name="Moroto"
+	culture = crimson_demonc
+}
+
+2335 = {
+	name="Naganuma"
+	culture = crimson_demonc
+}
+
+2336 = {
+	name="Takeishi"
+	culture = crimson_demonc
+}
+
+2337 = {
+	name="Iidoi"
+	culture = crimson_demonc
+}
+
+2338 = {
+	name="Osuga"
+	culture = crimson_demonc
+}
+
+2339 = {
+	name="Shimada"
+	culture = crimson_demonc
+}
+
+2340 = {
+	name="Kaburagi"
+	culture = crimson_demonc
+}
+
+2341 = {
+	name="Unakami"
+	culture = crimson_demonc
+}
+
+# Kazusa, Kazusa Kokujin
+
+2342 = {
+	name="Takeda"
+	culture = crimson_demonc
+}
+
+2343 = {
+	name="Miyamoto"
+	culture = crimson_demonc
+}
+
+2344 = {
+	name="Kamata"
+	culture = crimson_demonc
+}
+
+2345 = {
+	name="Kato"
+	culture = crimson_demonc
+}
+
+2346 = {
+	name="Masaki"
+	culture = crimson_demonc
+}
+
+2347 = {
+	name="Taga"
+	culture = crimson_demonc
+}
+
+2348 = {
+	name="Wada"
+	culture = crimson_demonc
+}
+
+2349 = {
+	name="Shiizu"
+	culture = crimson_demonc
+}
+
+2350 = {
+	name="Saze"
+	culture = crimson_demonc
+}
+
+2351 = {
+	name="Toki"
+	culture = crimson_demonc
+}
+
+2352 = {
+	name="Naito"
+	culture = crimson_demonc
+}
+
+2353 = {
+	name="Mariyatsu"
+	culture = crimson_demonc
+}
+
+2354 = {
+	name="Hosono"
+	culture = crimson_demonc
+}
+
+2355 = {
+	name="Sasaki"
+	culture = crimson_demonc
+}
+
+2356 = {
+	name="Sakai"
+	culture = crimson_demonc
+}
+
+2357 = {
+	name="Toke"
+	culture = crimson_demonc
+}
+
+2358 = {
+	name="Itakura"
+	culture = crimson_demonc
+}
+
+2359 = {
+	name="Shiizaki"
+	culture = crimson_demonc
+}
+
+# Boshu, Satomi
+
+2360 = {
+	name="Horie"
+	culture = crimson_demonc
+}
+
+2361 = {
+	name="Kiso"
+	culture = crimson_demonc
+}
+
+2362 = {
+	name="Satomi"
+	culture = crimson_demonc
+}
+
+## Western Kanto
+
+#Kozuke, Uesugi
+
+2363 = {
+	name="Fukaya"
+	culture = crimson_demonc
+}
+
+2364 = {
+	name="Yamana"
+	culture = crimson_demonc
+}
+
+2365 = {
+	name="Fujioka"
+	culture = crimson_demonc
+}
+
+2366 = {
+	name="Naito"
+	culture = crimson_demonc
+}
+
+2367 = {
+	name="Kuragano"
+	culture = crimson_demonc
+}
+
+2368 = {
+	name="Nagano"
+	culture = crimson_demonc
+}
+
+2369 = {
+	name="Yamauchi"
+	culture = crimson_demonc
+}
+
+2370 = {
+	name="Saito"
+	culture = crimson_demonc
+}
+
+2371 = {
+	name="Oishi"
+	culture = crimson_demonc
+}
+
+2372 = {
+	name="Fujita"
+	culture = crimson_demonc
+}
+
+2373 = {
+	name="Narita"
+	culture = crimson_demonc
+}
+
+2374 = {
+	name="Omori"
+	culture = crimson_demonc
+}
+
+2375 = {
+	name="Numata"
+	culture = crimson_demonc
+}
+
+2376 = {
+	name="Nagurumi"
+	culture = crimson_demonc
+}
+
+2377 = {
+	name="Ueda"
+	culture = crimson_demonc
+}
+
+2378 = {
+	name="Annaka"
+	culture = crimson_demonc
+}
+
+2379 = {
+	name="Gokan"
+	culture = crimson_demonc
+}
+
+2380 = {
+	name="Satomi"
+	culture = crimson_demonc
+}
+
+2381 = {
+	name="Obata"
+	culture = crimson_demonc
+}
+
+2382 = {
+	name="Daidoji"
+	culture = crimson_demonc
+}
+
+2383 = {
+	name="Toyama"
+	culture = crimson_demonc
+}
+
+2384 = {
+	name="Ogo"
+	culture = crimson_demonc
+}
+
+2385 = {
+	name="Serata"
+	culture = crimson_demonc
+}
+
+2386 = {
+	name="Kamiizumi"
+	culture = crimson_demonc
+}
+
+2387 = {
+	name="Wada"
+	culture = crimson_demonc
+}
+
+2388 = {
+	name="Takeda"
+	culture = crimson_demonc
+}
+
+2389 = {
+	name="Matsumoto"
+	culture = crimson_demonc
+}
+
+2390 = {
+	name="Oida"
+	culture = crimson_demonc
+}
+
+2391 = {
+	name="Nawa"
+	culture = crimson_demonc
+}
+
+2392 = {
+	name="Komorizawa"
+	culture = crimson_demonc
+}
+
+2393 = {
+	name="Tomioka"
+	culture = crimson_demonc
+}
+
+2394 = {
+	name="Goto"
+	culture = crimson_demonc
+}
+
+2395 = {
+	name="Akai"
+	culture = crimson_demonc
+}
+
+2396 = {
+	name="Kiryu"
+	culture = crimson_demonc
+}
+
+2397 = {
+	name="Yura"
+	culture = crimson_demonc
+}
+
+2398 = {
+	name="Iwamatsu"
+	culture = crimson_demonc
+}
+
+# Musashi, Kanto kubo
+
+2399 = {
+	name="Fukuhara"
+	culture = crimson_demonc
+}
+
+2400 = {
+	name="Ashino"
+	culture = crimson_demonc
+}
+
+2401 = {
+	name="Kaneko"
+	culture = crimson_demonc
+}
+
+2402 = {
+	name="Yokochi"
+	culture = crimson_demonc
+}
+
+2403 = {
+	name="Oishi"
+	culture = crimson_demonc
+}
+
+2404 = {
+	name="Nagai"
+	culture = crimson_demonc
+}
+
+2405 = {
+	name="Inomata"
+	culture = crimson_demonc
+}
+
+2406 = {
+	name="Honjo"
+	culture = crimson_demonc
+}
+
+2407 = {
+	name="Natsume"
+	culture = crimson_demonc
+}
+
+2408 = {
+	name="Edo"
+	culture = crimson_demonc
+}
+
+2409 = {
+	name="Toshima"
+	culture = crimson_demonc
+}
+
+2410 = {
+	name="Mamiya"
+	culture = crimson_demonc
+}
+
+2411 = {
+	name="Mitsuki"
+	culture = crimson_demonc
+}
+
+2412 = {
+	name="Kano"
+	culture = crimson_demonc
+}
+
+2413 = {
+	name="Matori"
+	culture = crimson_demonc
+}
+
+2414 = {
+	name="Tamaru"
+	culture = crimson_demonc
+}
+
+2415 = {
+	name="Kumagai"
+	culture = crimson_demonc
+}
+
+2416 = {
+	name="Sakurai"
+	culture = crimson_demonc
+}
+
+2417 = {
+	name="Ota"
+	culture = crimson_demonc
+}
+
+2418 = {
+	name="Aida"
+	culture = crimson_demonc
+}
+
+2419 = {
+	name="Hachijo"
+	culture = crimson_demonc
+}
+
+2415000 = {
+	name="Kasahara"
+	culture = crimson_demonc
+}
+
+2421 = {
+	name="Tominaga"
+	culture = crimson_demonc
+}
+
+2422 = {
+	name="Asakura"
+	culture = crimson_demonc
+}
+
+2423 = {
+	name="Namekata"
+	culture = crimson_demonc
+}
+
+2424 = {
+	name="Kido"
+	culture = crimson_demonc
+}
+
+2425 = {
+	name="Oda"
+	culture = crimson_demonc
+}
+
+2426 = {
+	name="Tame"
+	culture = crimson_demonc
+}
+
+2427 = {
+	name="Adachi"
+	culture = crimson_demonc
+}
+
+2428 = {
+	name="Shibukawa"
+	culture = crimson_demonc
+}
+
+2429 = {
+	name="Kira"
+	culture = crimson_demonc
+}
+
+2430 = {
+	name="Kajiwara"
+	culture = crimson_demonc
+}
+
+2431 = {
+	name="Seta"
+	culture = crimson_demonc
+}
+
+2432 = {
+	name="Tachikawa"
+	culture = crimson_demonc
+}
+
+2433 = {
+	name="Takahashi"
+	culture = crimson_demonc
+}
+
+2434 = {
+	name="Matsushita"
+	culture = crimson_demonc
+}
+
+2435 = {
+	name="Hanzawa"
+	culture = crimson_demonc
+}
+
+2436 = {
+	name="Fukaya"
+	culture = crimson_demonc
+}
+
+2437 = {
+	name="Hirosawa"
+	culture = crimson_demonc
+}
+
+2438 = {
+	name="Haga"
+	culture = crimson_demonc
+}
+
+2439 = {
+	name="Ishii"
+	culture = crimson_demonc
+}
+
+2440 = {
+	name="Kikuchi"
+	culture = crimson_demonc
+}
+
+2441 = {
+	name="Yamaguchi"
+	culture = crimson_demonc
+}
+
+2442 = {
+	name="Nakamura"
+	culture = crimson_demonc
+}
+
+2443 = {
+	name="Ando"
+	culture = crimson_demonc
+}
+
+## Southern Kanto
+
+# Sagami, Hojo
+
+2444 = {
+	name="Odawara"
+	culture = crimson_demonc
+}
+
+2445 = {
+	name="Takanosu"
+	culture = crimson_demonc
+}
+
+2446 = {
+	name="Iwahara"
+	culture = crimson_demonc
+}
+
+2447 = {
+	name="Tamanawa"
+	culture = crimson_demonc
+}
+
+2448 = {
+	name="Kamakura"
+	culture = crimson_demonc
+}
+
+2449 = {
+	name="Oba"
+	culture = crimson_demonc
+}
+
+2450 = {
+	name="Nanasawa"
+	culture = crimson_demonc
+}
+
+2451 = {
+	name="Hayakawa"
+	culture = crimson_demonc
+}
+
+2452 = {
+	name="Fukami"
+	culture = crimson_demonc
+}
+
+2453 = {
+	name="Misaki"
+	culture = crimson_demonc
+}
+
+2454 = {
+	name="Kinugasa"
+	culture = crimson_demonc
+}
+
+2455 = {
+	name="Hayama"
+	culture = crimson_demonc
+}
+
+2456 = {
+	name="Tsukui"
+	culture = crimson_demonc
+}
+
+2457 = {
+	name="Nakano"
+	culture = crimson_demonc
+}
+
+2458 = {
+	name="Yose"
+	culture = crimson_demonc
+}
+
+# Izu, Hojo
+
+2459 = {
+	name="Kawatsu"
+	culture = crimson_demonc
+}
+
+2460 = {
+	name="Shimoda"
+	culture = crimson_demonc
+}
+
+2461 = {
+	name="Tago"
+	culture = crimson_demonc
+}
+
+2462 = {
+	name="Yamanaka"
+	culture = crimson_demonc
+}
+
+2463 = {
+	name="Nirayama"
+	culture = crimson_demonc
+}
+
+2464 = {
+	name="Daisaki"
+	culture = crimson_demonc
+}
+
+### Chubu
+
+## crimson_demonc
+
+# Kai, Takeda
+
+2465 = {
+	name="Katsunuma"
+	culture = crimson_demonc
+}
+
+2466 = {
+	name="Enzan"
+	culture = crimson_demonc
+}
+
+2467 = {
+	name="Kurihara"
+	culture = crimson_demonc
+}
+
+2468 = {
+	name="Isawa"
+	culture = crimson_demonc
+}
+
+2469 = {
+	name="Katsuyama"
+	culture = crimson_demonc
+}
+
+2470 = {
+	name="Ubaguchi"
+	culture = crimson_demonc
+}
+
+2471 = {
+	name="Yamura"
+	culture = crimson_demonc
+}
+
+2472 = {
+	name="Yosida"
+	culture = crimson_demonc
+}
+
+2473 = {
+	name="Akiyama"
+	culture = crimson_demonc
+}
+
+2474 = {
+	name="Simoyama"
+	culture = crimson_demonc
+}
+
+2475 = {
+	name="Aoyagi"
+	culture = crimson_demonc
+}
+
+2476 = {
+	name="Nanbu"
+	culture = crimson_demonc
+}
+
+2477 = {
+	name="Nirasaki"
+	culture = crimson_demonc
+}
+
+2478 = {
+	name="Yato"
+	culture = crimson_demonc
+}
+
+2479 = {
+	name="Nagasaka"
+	culture = crimson_demonc
+}
+
+# Shinano, Shinano Kokujin
+
+2480 = {
+	name="Komuro"
+	culture = crimson_demonc
+}
+
+2481 = {
+	name="Hiraka"
+	culture = crimson_demonc
+}
+
+2482 = {
+	name="Oi"
+	culture = crimson_demonc
+}
+
+2483 = {
+	name="Uehara"
+	culture = crimson_demonc
+}
+
+2484 = {
+	name="Suwa"
+	culture = crimson_demonc
+}
+
+2485 = {
+	name="Kuwabara"
+	culture = crimson_demonc
+}
+
+2486 = {
+	name="Takato"
+	culture = crimson_demonc
+}
+
+2487 = {
+	name="Fujisawa"
+	culture = crimson_demonc
+}
+
+2488 = {
+	name="Minowa"
+	culture = crimson_demonc
+}
+
+2489 = {
+	name="Iida"
+	culture = crimson_demonc
+}
+
+2490 = {
+	name="Suzuoka"
+	culture = crimson_demonc
+}
+
+2491 = {
+	name="Matsuo"
+	culture = crimson_demonc
+}
+
+2492 = {
+	name="Hayashi"
+	culture = crimson_demonc
+}
+
+2493 = {
+	name="Kirihara"
+	culture = crimson_demonc
+}
+
+2494 = {
+	name="Kumai"
+	culture = crimson_demonc
+}
+
+2495 = {
+	name="Suhara"
+	culture = crimson_demonc
+}
+
+2496 = {
+	name="Tsumagome"
+	culture = crimson_demonc
+}
+
+2497 = {
+	name="Komaruyama"
+	culture = crimson_demonc
+}
+
+2498 = {
+	name="Yazawa"
+	culture = crimson_demonc
+}
+
+2499 = {
+	name="Sanada"
+	culture = crimson_demonc
+}
+
+2500 = {
+	name="Ueda"
+	culture = crimson_demonc
+}
+
+2501 = {
+	name="Yashiro"
+	culture = crimson_demonc
+}
+
+2502 = {
+	name="Tojo"
+	culture = crimson_demonc
+}
+
+2503 = {
+	name="Sakaki"
+	culture = crimson_demonc
+}
+
+2504 = {
+	name="Murakami"
+	culture = crimson_demonc
+}
+
+2505 = {
+	name="Yokota"
+	culture = crimson_demonc
+}
+
+2506 = {
+	name="Ooka"
+	culture = crimson_demonc
+}
+
+2507 = {
+	name="Tenshoji"
+	culture = crimson_demonc
+}
+
+2508 = {
+	name="Omiya"
+	culture = crimson_demonc
+}
+
+2509 = {
+	name="Kitajo"
+	culture = crimson_demonc
+}
+
+2510 = {
+	name="Wakamiya"
+	culture = crimson_demonc
+}
+
+2511 = {
+	name="Nagano"
+	culture = crimson_demonc
+}
+
+2512 = {
+	name="Ogawa"
+	culture = crimson_demonc
+}
+
+2513 = {
+	name="Suzaka"
+	culture = crimson_demonc
+}
+
+2514 = {
+	name="Suda"
+	culture = crimson_demonc
+}
+
+2515 = {
+	name="Hoshina"
+	culture = crimson_demonc
+}
+
+2516 = {
+	name="Iiyama"
+	culture = crimson_demonc
+}
+
+2517 = {
+	name="Minochi"
+	culture = crimson_demonc
+}
+
+2518 = {
+	name="Sento"
+	culture = crimson_demonc
+}
+
+# Hida, Hida kokujin
+
+2519 = {
+	name="Matsukura"
+	culture = crimson_demonc
+}
+
+2515000 = {
+	name="Ogimachi"
+	culture = crimson_demonc
+}
+
+2521 = {
+	name="Nabeyama"
+	culture = crimson_demonc
+}
+
+2522 = {
+	name="Masushima"
+	culture = crimson_demonc
+}
+
+2523 = {
+	name="Furukawa"
+	culture = crimson_demonc
+}
+
+2524 = {
+	name="Kotakari"
+	culture = crimson_demonc
+}
+
+2525 = {
+	name="Sakurabora"
+	culture = crimson_demonc
+}
+
+2526 = {
+	name="Miyaji"
+	culture = crimson_demonc
+}
+
+2527 = {
+	name="Mashita"
+	culture = crimson_demonc
+}
+
+## crimson_demonc
+
+# Suruga, Imagawa
+
+2528 = {
+	name="Kuno"
+	culture = crimson_demonc
+}
+
+2529 = {
+	name="Sena"
+	culture = crimson_demonc
+}
+
+2530 = {
+	name="Shizuhataya"
+	culture = crimson_demonc
+}
+
+2531 = {
+	name="Hanakura"
+	culture = crimson_demonc
+}
+
+2532 = {
+	name="Kogawa"
+	culture = crimson_demonc
+}
+
+2533 = {
+	name="Tanaka"
+	culture = crimson_demonc
+}
+
+2534 = {
+	name="Kanbara"
+	culture = crimson_demonc
+}
+
+2535 = {
+	name="Ejiri"
+	culture = crimson_demonc
+}
+
+2536 = {
+	name="Okitsu"
+	culture = crimson_demonc
+}
+
+2537 = {
+	name="Yoshiwara"
+	culture = crimson_demonc
+}
+
+2538 = {
+	name="Omiya"
+	culture = crimson_demonc
+}
+
+2539 = {
+	name="Iriyamase"
+	culture = crimson_demonc
+}
+
+2540 = {
+	name="Katsurayama"
+	culture = crimson_demonc
+}
+
+2541 = {
+	name="Kokokuji"
+	culture = crimson_demonc
+}
+
+2542 = {
+	name="Numazu"
+	culture = crimson_demonc
+}
+
+# Totomi, Imagawa and Matsudaira
+
+2543 = {
+	name="Yokosuka"
+	culture = crimson_demonc
+}
+
+2544 = {
+	name="Sagara"
+	culture = crimson_demonc
+}
+
+2545 = {
+	name="Yokochi"
+	culture = crimson_demonc
+}
+
+2546 = {
+	name="Suwahara"
+	culture = crimson_demonc
+}
+
+2547 = {
+	name="Kagegawa"
+	culture = crimson_demonc
+}
+
+2548 = {
+	name="Katumata"
+	culture = crimson_demonc
+}
+
+2549 = {
+	name="Horikoshi"
+	culture = crimson_demonc
+}
+
+2550 = {
+	name="Kuno"
+	culture = crimson_demonc
+}
+
+2551 = {
+	name="Mitsuke"
+	culture = crimson_demonc
+}
+
+2552 = {
+	name="Amagata"
+	culture = crimson_demonc
+}
+
+2553 = {
+	name="Iida"
+	culture = crimson_demonc
+}
+
+2554 = {
+	name="Komyo"
+	culture = crimson_demonc
+}
+
+2555 = {
+	name="Inoya"
+	culture = crimson_demonc
+}
+
+2556 = {
+	name="Odaira"
+	culture = crimson_demonc
+}
+
+2557 = {
+	name="Mitake"
+	culture = crimson_demonc
+}
+
+2558 = {
+	name="Hikuma"
+	culture = crimson_demonc
+}
+
+2559 = {
+	name="Hamamatsu"
+	culture = crimson_demonc
+}
+
+2560 = {
+	name="Kakezuka"
+	culture = crimson_demonc
+}
+
+# Mikawa, Matsudaira
+
+2561 = {
+	name="Okazaki"
+	culture = crimson_demonc
+}
+
+2562 = {
+	name="Joguji"
+	culture = crimson_demonc
+}
+
+2563 = {
+	name="Ikuta"
+	culture = crimson_demonc
+}
+
+2564 = {
+	name="Kariya"
+	culture = crimson_demonc
+}
+
+2565 = {
+	name="Ohama"
+	culture = crimson_demonc
+}
+
+2566 = {
+	name="Chiryu"
+	culture = crimson_demonc
+}
+
+2567 = {
+	name="Tojo"
+	culture = crimson_demonc
+}
+
+2568 = {
+	name="Nishio"
+	culture = crimson_demonc
+}
+
+2569 = {
+	name="Shinoshima"
+	culture = crimson_demonc
+}
+
+2570 = {
+	name="Matsudaira"
+	culture = crimson_demonc
+}
+
+2571 = {
+	name="Asuke"
+	culture = crimson_demonc
+}
+
+2572 = {
+	name="Iimori"
+	culture = crimson_demonc
+}
+
+2573 = {
+	name="Makino"
+	culture = crimson_demonc
+}
+
+2574 = {
+	name="Ina"
+	culture = crimson_demonc
+}
+
+2575 = {
+	name="Isshiki"
+	culture = crimson_demonc
+}
+
+2576 = {
+	name="Shitara"
+	culture = crimson_demonc
+}
+
+2577 = {
+	name="Hirai"
+	culture = crimson_demonc
+}
+
+2578 = {
+	name="Damine"
+	culture = crimson_demonc
+}
+
+2579 = {
+	name="Yoshida"
+	culture = crimson_demonc
+}
+
+2580 = {
+	name="Nirengi"
+	culture = crimson_demonc
+}
+
+2581 = {
+	name="Muro"
+	culture = crimson_demonc
+}
+
+## Western Chubu
+
+# Owari, Oda
+
+2582 = {
+	name="Furuwatari"
+	culture = crimson_demonc
+}
+
+2583 = {
+	name="Atsuta"
+	culture = crimson_demonc
+}
+
+2584 = {
+	name="Nagoya"
+	culture = crimson_demonc
+}
+
+2585 = {
+	name="Seto"
+	culture = crimson_demonc
+}
+
+2586 = {
+	name="Moriyama"
+	culture = crimson_demonc
+}
+
+2587 = {
+	name="Omori"
+	culture = crimson_demonc
+}
+
+2588 = {
+	name="Kasugai"
+	culture = crimson_demonc
+}
+
+2589 = {
+	name="Iwasaki"
+	culture = crimson_demonc
+}
+
+2590 = {
+	name="Nabeyama"
+	culture = crimson_demonc
+}
+
+2591 = {
+	name="Inuyama"
+	culture = crimson_demonc
+}
+
+2592 = {
+	name="Iwakura"
+	culture = crimson_demonc
+}
+
+2593 = {
+	name="Ikoma"
+	culture = crimson_demonc
+}
+
+2594 = {
+	name="Nakashima"
+	culture = crimson_demonc
+}
+
+2595 = {
+	name="Oya"
+	culture = crimson_demonc
+}
+
+2596 = {
+	name="Orizu"
+	culture = crimson_demonc
+}
+
+2597 = {
+	name="Tsushima"
+	culture = crimson_demonc
+}
+
+2598 = {
+	name="Noma"
+	culture = crimson_demonc
+}
+
+2599 = {
+	name="Kayatsu"
+	culture = crimson_demonc
+}
+
+2600 = {
+	name="Yatomi"
+	culture = crimson_demonc
+}
+
+2601 = {
+	name="Tobishima"
+	culture = crimson_demonc
+}
+
+2602 = {
+	name="Ofuji"
+	culture = crimson_demonc
+}
+
+2603 = {
+	name="Utsumi"
+	culture = crimson_demonc
+}
+
+2604 = {
+	name="Daikoji"
+	culture = crimson_demonc
+}
+
+2605 = {
+	name="Noma"
+	culture = crimson_demonc
+}
+
+# Mino, Saito
+
+2606 = {
+	name="Kamo"
+	culture = crimson_demonc
+}
+
+2607 = {
+	name="Matsugasaki"
+	culture = crimson_demonc
+}
+
+2608 = {
+	name="Sawane"
+	culture = crimson_demonc
+}
+
+2609 = {
+	name="Sone"
+	culture = crimson_demonc
+}
+
+2610 = {
+	name="Ogaki"
+	culture = crimson_demonc
+}
+
+2611 = {
+	name="Nishinoho"
+	culture = crimson_demonc
+}
+
+2612 = {
+	name="Ushibora"
+	culture = crimson_demonc
+}
+
+2613 = {
+	name="Yagi"
+	culture = crimson_demonc
+}
+
+2614 = {
+	name="Hongo"
+	culture = crimson_demonc
+}
+
+2615 = {
+	name="Kitagata"
+	culture = crimson_demonc
+}
+
+2616 = {
+	name="Yamaguchi"
+	culture = crimson_demonc
+}
+
+2617 = {
+	name="Karumi"
+	culture = crimson_demonc
+}
+
+2618 = {
+	name="Unuma"
+	culture = crimson_demonc
+}
+
+2619 = {
+	name="Nagara"
+	culture = crimson_demonc
+}
+
+2615000 = {
+	name="Murakuni"
+	culture = crimson_demonc
+}
+
+2621 = {
+	name="Oga"
+	culture = crimson_demonc
+}
+
+2622 = {
+	name="Seki"
+	culture = crimson_demonc
+}
+
+2623 = {
+	name="Atobe"
+	culture = crimson_demonc
+}
+
+2624 = {
+	name="Shinowaki"
+	culture = crimson_demonc
+}
+
+2625 = {
+	name="Azuma"
+	culture = crimson_demonc
+}
+
+2626 = {
+	name="Washimi"
+	culture = crimson_demonc
+}
+
+2627 = {
+	name="Kawabe"
+	culture = crimson_demonc
+}
+
+2628 = {
+	name="Yaotsu"
+	culture = crimson_demonc
+}
+
+2629 = {
+	name="Atobe"
+	culture = crimson_demonc
+}
+
+2630 = {
+	name="Iwamura"
+	culture = crimson_demonc
+}
+
+2631 = {
+	name="Naegi"
+	culture = crimson_demonc
+}
+
+2632 = {
+	name="Oi"
+	culture = crimson_demonc
+}
+
+2633 = {
+	name="Tsumagi"
+	culture = crimson_demonc
+}
+
+2634 = {
+	name="Akechi"
+	culture = crimson_demonc
+}
+
+2635 = {
+	name="Godo"
+	culture = crimson_demonc
+}
+
+# Ise, Kitabatake
+
+2636 = {
+	name="Kuwana"
+	culture = crimson_demonc
+}
+
+2637 = {
+	name="Tado"
+	culture = crimson_demonc
+}
+
+2638 = {
+	name="Nagashima"
+	culture = crimson_demonc
+}
+
+2639 = {
+	name="Umedo"
+	culture = crimson_demonc
+}
+
+2640 = {
+	name="Hatta"
+	culture = crimson_demonc
+}
+
+2641 = {
+	name="Kanai"
+	culture = crimson_demonc
+}
+
+2642 = {
+	name="Hamada"
+	culture = crimson_demonc
+}
+
+2643 = {
+	name="Kawagoe"
+	culture = crimson_demonc
+}
+
+2644 = {
+	name="Komono"
+	culture = crimson_demonc
+}
+
+2645 = {
+	name="Seki"
+	culture = crimson_demonc
+}
+
+2646 = {
+	name="Kameyama"
+	culture = crimson_demonc
+}
+
+2647 = {
+	name="Shohoji"
+	culture = crimson_demonc
+}
+
+2648 = {
+	name="Kanbe"
+	culture = crimson_demonc
+}
+
+2649 = {
+	name="Shiroko"
+	culture = crimson_demonc
+}
+
+2650 = {
+	name="Sawa"
+	culture = crimson_demonc
+}
+
+2651 = {
+	name="Nagano"
+	culture = crimson_demonc
+}
+
+2652 = {
+	name="Kozukuri"
+	culture = crimson_demonc
+}
+
+2653 = {
+	name="Hosono"
+	culture = crimson_demonc
+}
+
+2654 = {
+	name="Hosokumi"
+	culture = crimson_demonc
+}
+
+2655 = {
+	name="Takehara"
+	culture = crimson_demonc
+}
+
+2656 = {
+	name="Inagaki"
+	culture = crimson_demonc
+}
+
+2657 = {
+	name="Okouchi"
+	culture = crimson_demonc
+}
+
+2658 = {
+	name="Matsugashima"
+	culture = crimson_demonc
+}
+
+2659 = {
+	name="Azaka"
+	culture = crimson_demonc
+}
+
+2660 = {
+	name="Tamaru"
+	culture = crimson_demonc
+}
+
+2661 = {
+	name="Ise"
+	culture = crimson_demonc
+}
+
+2662 = {
+	name="Mise"
+	culture = crimson_demonc
+}
+
+# Shima, Kuki
+
+2663 = {
+	name="Tashiro"
+	culture = crimson_demonc
+}
+
+2664 = {
+	name="Toshi"
+	culture = crimson_demonc
+}
+
+2665 = {
+	name="Toba"
+	culture = crimson_demonc
+}
+
+# Iga, Iga Kokujin
+
+2666 = {
+	name="Ueno"
+	culture = crimson_demonc
+}
+
+2667 = {
+	name="Fukuchi"
+	culture = crimson_demonc
+}
+
+2668 = {
+	name="Momochi"
+	culture = crimson_demonc
+}
+
+2669 = {
+	name="Nabari"
+	culture = crimson_demonc
+}
+
+2670 = {
+	name="Shorenji"
+	culture = crimson_demonc
+}
+
+2671 = {
+	name="Kashiwabara"
+	culture = crimson_demonc
+}
+
+### Kinai
+
+## Northern Kinai
+
+# Wakasa, Takeda
+
+2672 = {
+	name="Nochise"
+	culture = crimson_demonc
+}
+
+2673 = {
+	name="Obama"
+	culture = crimson_demonc
+}
+
+2674 = {
+	name="Awaya"
+	culture = crimson_demonc
+}
+
+2675 = {
+	name="Maegawa"
+	culture = crimson_demonc
+}
+
+2676 = {
+	name="Saigo"
+	culture = crimson_demonc
+}
+
+2677 = {
+	name="Nogi"
+	culture = crimson_demonc
+}
+
+2678 = {
+	name="Wada"
+	culture = crimson_demonc
+}
+
+2679 = {
+	name="Hongo"
+	culture = crimson_demonc
+}
+
+2680 = {
+	name="Oshima"
+	culture = crimson_demonc
+}
+
+# Tango, Isshiki
+
+2681 = {
+	name="Yuminoki"
+	culture = crimson_demonc
+}
+
+2682 = {
+	name="Miyazu"
+	culture = crimson_demonc
+}
+
+2683 = {
+	name="Kaya"
+	culture = crimson_demonc
+}
+
+2684 = {
+	name="Takebeyama"
+	culture = crimson_demonc
+}
+
+2685 = {
+	name="Tanabe"
+	culture = crimson_demonc
+}
+
+2686 = {
+	name="Hatta"
+	culture = crimson_demonc
+}
+
+2687 = {
+	name="Kumihama"
+	culture = crimson_demonc
+}
+
+2688 = {
+	name="Mineyama"
+	culture = crimson_demonc
+}
+
+2689 = {
+	name="Yoshiwara"
+	culture = crimson_demonc
+}
+
+# Tanba, Hosokawa
+
+2690 = {
+	name="Kameyama"
+	culture = crimson_demonc
+}
+
+2691 = {
+	name="Izumo"
+	culture = crimson_demonc
+}
+
+2692 = {
+	name="Yada"
+	culture = crimson_demonc
+}
+
+2693 = {
+	name="Yagi"
+	culture = crimson_demonc
+}
+
+2694 = {
+	name="Sonobe"
+	culture = crimson_demonc
+}
+
+2695 = {
+	name="Wachi"
+	culture = crimson_demonc
+}
+
+2696 = {
+	name="Iden"
+	culture = crimson_demonc
+}
+
+2697 = {
+	name="Kanbayashi"
+	culture = crimson_demonc
+}
+
+2698 = {
+	name="Mononobe"
+	culture = crimson_demonc
+}
+
+2699 = {
+	name="Fukuchiyama"
+	culture = crimson_demonc
+}
+
+2700 = {
+	name="Yokoyama"
+	culture = crimson_demonc
+}
+
+2701 = {
+	name="Haze"
+	culture = crimson_demonc
+}
+
+2702 = {
+	name="Kuroi"
+	culture = crimson_demonc
+}
+
+2703 = {
+	name="Ashida"
+	culture = crimson_demonc
+}
+
+2704 = {
+	name="Yoden"
+	culture = crimson_demonc
+}
+
+2705 = {
+	name="Yakami"
+	culture = crimson_demonc
+}
+
+2706 = {
+	name="Oyama"
+	culture = crimson_demonc
+}
+
+2707 = {
+	name="Sasayama"
+	culture = crimson_demonc
+}
+
+## Central Kinai
+
+# Omi, Rokkaku and Asai
+
+2708 = {
+	name="Sawayama"
+	culture = crimson_demonc
+}
+
+2709 = {
+	name="Taga"
+	culture = crimson_demonc
+}
+
+2710 = {
+	name="Takanose"
+	culture = crimson_demonc
+}
+
+2711 = {
+	name="Mekada"
+	culture = crimson_demonc
+}
+
+2712 = {
+	name="Yagi"
+	culture = crimson_demonc
+}
+
+2713 = {
+	name="Echi"
+	culture = crimson_demonc
+}
+
+2714 = {
+	name="Ishidera"
+	culture = crimson_demonc
+}
+
+2715 = {
+	name="Kaizu"
+	culture = crimson_demonc
+}
+
+2716 = {
+	name="Kagami"
+	culture = crimson_demonc
+}
+
+2717 = {
+	name="Ishibe"
+	culture = crimson_demonc
+}
+
+2718 = {
+	name="Mizuguchi"
+	culture = crimson_demonc
+}
+
+2719 = {
+	name="Mikumo"
+	culture = crimson_demonc
+}
+
+2715000 = {
+	name="Nagahara"
+	culture = crimson_demonc
+}
+
+2721 = {
+	name="Moriyama"
+	culture = crimson_demonc
+}
+
+2722 = {
+	name="Mikami"
+	culture = crimson_demonc
+}
+
+2723 = {
+	name="Kutsuki"
+	culture = crimson_demonc
+}
+
+2724 = {
+	name="Imazu"
+	culture = crimson_demonc
+}
+
+2725 = {
+	name="Takashima"
+	culture = crimson_demonc
+}
+
+2726 = {
+	name="Hassaka"
+	culture = crimson_demonc
+}
+
+2727 = {
+	name="Kusatsu"
+	culture = crimson_demonc
+}
+
+2728 = {
+	name="Komai"
+	culture = crimson_demonc
+}
+
+2729 = {
+	name="Sakamoto"
+	culture = crimson_demonc
+}
+
+2730 = {
+	name="Otsu"
+	culture = crimson_demonc
+}
+
+2731 = {
+	name="Onjoji"
+	culture = crimson_demonc
+}
+
+2732 = {
+	name="Yogo"
+	culture = crimson_demonc
+}
+
+2733 = {
+	name="Shiozu"
+	culture = crimson_demonc
+}
+
+2734 = {
+	name="Amamori"
+	culture = crimson_demonc
+}
+
+2735 = {
+	name="Odani"
+	culture = crimson_demonc
+}
+
+2736 = {
+	name="Miyabe"
+	culture = crimson_demonc
+}
+
+2737 = {
+	name="Kusano"
+	culture = crimson_demonc
+}
+
+2738 = {
+	name="Nagahama"
+	culture = crimson_demonc
+}
+
+2739 = {
+	name="Asazuma"
+	culture = crimson_demonc
+}
+
+2740 = {
+	name="Joheiji"
+	culture = crimson_demonc
+}
+
+# Yamashiro, Ashikaga Shogunate
+
+2741 = {
+	name="Shijo"
+	culture = crimson_demonc
+}
+
+2742 = {
+	name="Yasaka"
+	culture = crimson_demonc
+}
+
+2743 = {
+	name="Iwakura"
+	culture = crimson_demonc
+}
+
+2744 = {
+	name="Nijo"
+	culture = crimson_demonc
+}
+
+2745 = {
+	name="Katsura"
+	culture = crimson_demonc
+}
+
+2746 = {
+	name="Saga"
+	culture = crimson_demonc
+}
+
+2747 = {
+	name="Kizu"
+	culture = crimson_demonc
+}
+
+2748 = {
+	name="Watsuka"
+	culture = crimson_demonc
+}
+
+2749 = {
+	name="Koma"
+	culture = crimson_demonc
+}
+
+2750 = {
+	name="Makishima"
+	culture = crimson_demonc
+}
+
+2751 = {
+	name="Yodo"
+	culture = crimson_demonc
+}
+
+2752 = {
+	name="Kuze"
+	culture = crimson_demonc
+}
+
+2753 = {
+	name="Nishioka"
+	culture = crimson_demonc
+}
+
+2754 = {
+	name="Yamazaki"
+	culture = crimson_demonc
+}
+
+2755 = {
+	name="Nagaoka"
+	culture = crimson_demonc
+}
+
+2756 = {
+	name="Fukakusa"
+	culture = crimson_demonc
+}
+
+2757 = {
+	name="Yamashina"
+	culture = crimson_demonc
+}
+
+2758 = {
+	name="Takeda"
+	culture = crimson_demonc
+}
+
+# Settsu, Hosokawa
+
+2759 = {
+	name="Ishiyama"
+	culture = crimson_demonc
+}
+
+2760 = {
+	name="Tennoji"
+	culture = crimson_demonc
+}
+
+2761 = {
+	name="Hirano"
+	culture = crimson_demonc
+}
+
+2762 = {
+	name="Sumiyoshi"
+	culture = crimson_demonc
+}
+
+2763 = {
+	name="Enami"
+	culture = crimson_demonc
+}
+
+2764 = {
+	name="Kire"
+	culture = crimson_demonc
+}
+
+2765 = {
+	name="Ikeda"
+	culture = crimson_demonc
+}
+
+2766 = {
+	name="Segawa"
+	culture = crimson_demonc
+}
+
+2767 = {
+	name="Teshima"
+	culture = crimson_demonc
+}
+
+2768 = {
+	name="Akutagawa"
+	culture = crimson_demonc
+}
+
+2769 = {
+	name="Ibaraki"
+	culture = crimson_demonc
+}
+
+2770 = {
+	name="Tonda"
+	culture = crimson_demonc
+}
+
+2771 = {
+	name="Takayama"
+	culture = crimson_demonc
+}
+
+2772 = {
+	name="Nose"
+	culture = crimson_demonc
+}
+
+2773 = {
+	name="Yamabe"
+	culture = crimson_demonc
+}
+
+2774 = {
+	name="Itami"
+	culture = crimson_demonc
+}
+
+2775 = {
+	name="Amagasaki"
+	culture = crimson_demonc
+}
+
+2776 = {
+	name="Tada"
+	culture = crimson_demonc
+}
+
+2777 = {
+	name="Muko"
+	culture = crimson_demonc
+}
+
+2778 = {
+	name="Takiyama"
+	culture = crimson_demonc
+}
+
+2779 = {
+	name="Koshimizu"
+	culture = crimson_demonc
+}
+
+2780 = {
+	name="Ikuta"
+	culture = crimson_demonc
+}
+
+2781 = {
+	name="Nagata"
+	culture = crimson_demonc
+}
+
+2782 = {
+	name="Fukuhara"
+	culture = crimson_demonc
+}
+
+2783 = {
+	name="Sanda"
+	culture = crimson_demonc
+}
+
+2784 = {
+	name="Arima"
+	culture = crimson_demonc
+}
+
+2785 = {
+	name="Najio"
+	culture = crimson_demonc
+}
+
+## Southern Kinai
+
+# Yamato, Tsutsui
+
+2786 = {
+	name="Yakushiji"
+	culture = southern_kinai
+}
+
+2787 = {
+	name="Genkoji"
+	culture = southern_kinai
+}
+
+2788 = {
+	name="Choshoji"
+	culture = southern_kinai
+}
+
+2789 = {
+	name="Tsutsui"
+	culture = southern_kinai
+}
+
+2790 = {
+	name="Koriyama"
+	culture = southern_kinai
+}
+
+2791 = {
+	name="Katagiri"
+	culture = southern_kinai
+}
+
+2792 = {
+	name="Ikoma"
+	culture = southern_kinai
+}
+
+2793 = {
+	name="Takayama"
+	culture = southern_kinai
+}
+
+2794 = {
+	name="Nabata"
+	culture = southern_kinai
+}
+
+2795 = {
+	name="Imaichi"
+	culture = southern_kinai
+}
+
+2796 = {
+	name="Yagyu"
+	culture = southern_kinai
+}
+
+2797 = {
+	name="Tamonyama"
+	culture = southern_kinai
+}
+
+2798 = {
+	name="Akiyama"
+	culture = southern_kinai
+}
+
+2799 = {
+	name="Matsuyama"
+	culture = southern_kinai
+}
+
+2800 = {
+	name="Tada"
+	culture = southern_kinai
+}
+
+2801 = {
+	name="Fujii"
+	culture = southern_kinai
+}
+
+2802 = {
+	name="Yamabe"
+	culture = southern_kinai
+}
+
+2803 = {
+	name="Bessho"
+	culture = southern_kinai
+}
+
+2804 = {
+	name="Sakurai"
+	culture = southern_kinai
+}
+
+2805 = {
+	name="Ochi"
+	culture = southern_kinai
+}
+
+2806 = {
+	name="Imai"
+	culture = southern_kinai
+}
+
+2807 = {
+	name="Sami"
+	culture = southern_kinai
+}
+
+2808 = {
+	name="Gose"
+	culture = southern_kinai
+}
+
+2809 = {
+	name="Matsumoto"
+	culture = southern_kinai
+}
+
+2810 = {
+	name="Takada"
+	culture = southern_kinai
+}
+
+2811 = {
+	name="Shinjo"
+	culture = southern_kinai
+}
+
+2812 = {
+	name="Kawai"
+	culture = southern_kinai
+}
+
+2813 = {
+	name="Kamiichi"
+	culture = southern_kinai
+}
+
+2814 = {
+	name="Shimoichi"
+	culture = southern_kinai
+}
+
+2815 = {
+	name="Kitayama"
+	culture = southern_kinai
+}
+
+# Kawachi, Matsunaga
+
+2816 = {
+	name="Iimori"
+	culture = southern_kinai
+}
+
+2817 = {
+	name="Hirakata"
+	culture = southern_kinai
+}
+
+2818 = {
+	name="Moriguchi"
+	culture = southern_kinai
+}
+
+2819 = {
+	name="Wakae"
+	culture = southern_kinai
+}
+
+2815000 = {
+	name="Hiraoka"
+	culture = southern_kinai
+}
+
+2821 = {
+	name="Yao"
+	culture = southern_kinai
+}
+
+2822 = {
+	name="Takaya"
+	culture = southern_kinai
+}
+
+2823 = {
+	name="Kyuhoji"
+	culture = southern_kinai
+}
+
+2824 = {
+	name="Konda"
+	culture = southern_kinai
+}
+
+2825 = {
+	name="Nagano"
+	culture = southern_kinai
+}
+
+2826 = {
+	name="Ishikawa"
+	culture = southern_kinai
+}
+
+2827 = {
+	name="Akasaka"
+	culture = southern_kinai
+}
+
+# Izumi, Honganji
+
+2828 = {
+	name="Otani"
+	culture = southern_kinai
+}
+
+2829 = {
+	name="Sakai"
+	culture = southern_kinai
+}
+
+2830 = {
+	name="Ayai"
+	culture = southern_kinai
+}
+
+2831 = {
+	name="Kishiwada"
+	culture = southern_kinai
+}
+
+2832 = {
+	name="Otsu"
+	culture = southern_kinai
+}
+
+2833 = {
+	name="Kaizuka"
+	culture = southern_kinai
+}
+
+2834 = {
+	name="Hineno"
+	culture = southern_kinai
+}
+
+2835 = {
+	name="Sano"
+	culture = southern_kinai
+}
+
+2836 = {
+	name="Tannowa"
+	culture = southern_kinai
+}
+
+# Kii, Hatakeyama
+
+2837 = {
+	name="Saika"
+	culture = southern_kinai
+}
+
+2838 = {
+	name="Kataoka"
+	culture = southern_kinai
+}
+
+2839 = {
+	name="Iwase"
+	culture = southern_kinai
+}
+
+2840 = {
+	name="Okada"
+	culture = southern_kinai
+}
+
+2841 = {
+	name="Kokawa"
+	culture = southern_kinai
+}
+
+2842 = {
+	name="Yamazaki"
+	culture = southern_kinai
+}
+
+2843 = {
+	name="Kibi"
+	culture = southern_kinai
+}
+
+2844 = {
+	name="Tadono"
+	culture = southern_kinai
+}
+
+2845 = {
+	name="Itoga"
+	culture = southern_kinai
+}
+
+2846 = {
+	name="Inami"
+	culture = southern_kinai
+}
+
+2847 = {
+	name="Minabe"
+	culture = southern_kinai
+}
+
+2848 = {
+	name="Iwashiro"
+	culture = southern_kinai
+}
+
+2849 = {
+	name="Tonda"
+	culture = southern_kinai
+}
+
+2850 = {
+	name="Tanabe"
+	culture = southern_kinai
+}
+
+2851 = {
+	name="Susami"
+	culture = southern_kinai
+}
+
+2852 = {
+	name="Kumano"
+	culture = southern_kinai
+}
+
+2853 = {
+	name="Akagi"
+	culture = southern_kinai
+}
+
+2854 = {
+	name="Shingu"
+	culture = southern_kinai
+}
+
+### Saigoku
+
+## Sanyo
+
+# Harima, Akamatsu
+
+2855 = {
+	name="Akashi"
+	culture = sanyo
+}
+
+2856 = {
+	name="Funage"
+	culture = sanyo
+}
+
+2857 = {
+	name="Uozumi"
+	culture = sanyo
+}
+
+2858 = {
+	name="Miki"
+	culture = sanyo
+}
+
+2859 = {
+	name="Toichi"
+	culture = sanyo
+}
+
+2860 = {
+	name="Ougo"
+	culture = sanyo
+}
+
+2861 = {
+	name="Hie"
+	culture = sanyo
+}
+
+2862 = {
+	name="Kuroda"
+	culture = sanyo
+}
+
+2863 = {
+	name="Nonaka"
+	culture = sanyo
+}
+
+2864 = {
+	name="Okishio"
+	culture = sanyo
+}
+
+2865 = {
+	name="Hiromine"
+	culture = sanyo
+}
+
+2866 = {
+	name="Sakamoto"
+	culture = sanyo
+}
+
+2867 = {
+	name="Okishio"
+	culture = sanyo
+}
+
+2868 = {
+	name="Hiromine"
+	culture = sanyo
+}
+
+2869 = {
+	name="Sakamoto"
+	culture = sanyo
+}
+
+2870 = {
+	name="Aga"
+	culture = sanyo
+}
+
+2871 = {
+	name="Shikama"
+	culture = sanyo
+}
+
+2872 = {
+	name="Shikata"
+	culture = sanyo
+}
+
+2873 = {
+	name="Tatsuno"
+	culture = sanyo
+}
+
+2874 = {
+	name="Ikaruga"
+	culture = sanyo
+}
+
+2875 = {
+	name="Uragami"
+	culture = sanyo
+}
+
+2876 = {
+	name="Sakoshi"
+	culture = sanyo
+}
+
+2877 = {
+	name="Naba"
+	culture = sanyo
+}
+
+2878 = {
+	name="Akamatsu"
+	culture = sanyo
+}
+
+2879 = {
+	name="Hirose"
+	culture = sanyo
+}
+
+2880 = {
+	name="Kozuki"
+	culture = sanyo
+}
+
+2881 = {
+	name="Iwa"
+	culture = sanyo
+}
+
+# Bizen, Uragami
+
+2882 = {
+	name="Fukuoka"
+	culture = sanyo
+}
+
+2883 = {
+	name="Okayama"
+	culture = sanyo
+}
+
+2884 = {
+	name="Kanaoka"
+	culture = sanyo
+}
+
+2885 = {
+	name="Kanagawa"
+	culture = sanyo
+}
+
+2886 = {
+	name="Kokura"
+	culture = sanyo
+}
+
+2887 = {
+	name="Tokura"
+	culture = sanyo
+}
+
+2888 = {
+	name="Mitsuishi"
+	culture = sanyo
+}
+
+2889 = {
+	name="Susai"
+	culture = sanyo
+}
+
+2890 = {
+	name="Wake"
+	culture = sanyo
+}
+
+2891 = {
+	name="Toyohara"
+	culture = sanyo
+}
+
+2892 = {
+	name="Ushimado"
+	culture = sanyo
+}
+
+2893 = {
+	name="Katakami"
+	culture = sanyo
+}
+
+2894 = {
+	name="Tsuneyama"
+	culture = sanyo
+}
+
+2895 = {
+	name="Yuga"
+	culture = sanyo
+}
+
+2896 = {
+	name="Hibi"
+	culture = sanyo
+}
+
+# Mimasaka, Mimasaka Kanke To
+
+2897 = {
+	name="Innosho"
+	culture = sanyo
+}
+
+2898 = {
+	name="Kagurao"
+	culture = sanyo
+}
+
+2899 = {
+	name="Tsuyama"
+	culture = sanyo
+}
+
+2900 = {
+	name="Takada"
+	culture = sanyo
+}
+
+2901 = {
+	name="Sasabuki"
+	culture = sanyo
+}
+
+2902 = {
+	name="Kiyama"
+	culture = sanyo
+}
+
+2903 = {
+	name="Iwaya"
+	culture = sanyo
+}
+
+2904 = {
+	name="Haga"
+	culture = sanyo
+}
+
+2905 = {
+	name="Yuge"
+	culture = sanyo
+}
+
+2906 = {
+	name="Hayashino"
+	culture = sanyo
+}
+
+2907 = {
+	name="Mitsuboshi"
+	culture = sanyo
+}
+
+2908 = {
+	name="Takeyama"
+	culture = sanyo
+}
+
+# Bitchu, Bitchukokujin
+
+2909 = {
+	name="Yuzuriha"
+	culture = sanyo
+}
+
+2910 = {
+	name="Azae"
+	culture = sanyo
+}
+
+2911 = {
+	name="Niimi"
+	culture = sanyo
+}
+
+2912 = {
+	name="Sarukake"
+	culture = sanyo
+}
+
+2913 = {
+	name="Kasaoka"
+	culture = sanyo
+}
+
+2914 = {
+	name="Kamoyama"
+	culture = sanyo
+}
+
+2915 = {
+	name="Nariwa"
+	culture = sanyo
+}
+
+2916 = {
+	name="Kimura"
+	culture = sanyo
+}
+
+2917 = {
+	name="Shishido"
+	culture = sanyo
+}
+
+2918 = {
+	name="Matsuyama"
+	culture = sanyo
+}
+
+2919 = {
+	name="Noyama"
+	culture = sanyo
+}
+
+2915000 = {
+	name="Kyoyama"
+	culture = sanyo
+}
+
+2921 = {
+	name="Takamatsu"
+	culture = sanyo
+}
+
+2922 = {
+	name="Seno"
+	culture = sanyo
+}
+
+2923 = {
+	name="Niwase"
+	culture = sanyo
+}
+
+## Sanin
+
+# Tajima, Yamana
+
+2924 = {
+	name="Takeda"
+	culture = sanin
+}
+
+2925 = {
+	name="Yagi"
+	culture = sanin
+}
+
+2926 = {
+	name="Asakura"
+	culture = sanin
+}
+
+2927 = {
+	name="Ojiro"
+	culture = sanin
+}
+
+2928 = {
+	name="Takeno"
+	culture = sanin
+}
+
+2929 = {
+	name="Ashiya"
+	culture = sanin
+}
+
+2930 = {
+	name="Toyooka"
+	culture = sanin
+}
+
+2931 = {
+	name="Konosumi"
+	culture = sanin
+}
+
+2932 = {
+	name="Izushi"
+	culture = sanin
+}
+
+# Inaba, Yamana
+
+2933 = {
+	name="Iwatsune"
+	culture = sanin
+}
+
+2934 = {
+	name="Uradome"
+	culture = sanin
+}
+
+2935 = {
+	name="Okaya"
+	culture = sanin
+}
+
+2936 = {
+	name="Kisaichibe"
+	culture = sanin
+}
+
+2937 = {
+	name="Wakasa"
+	culture = sanin
+}
+
+2938 = {
+	name="Yodoyama"
+	culture = sanin
+}
+
+2939 = {
+	name="Fuse"
+	culture = sanin
+}
+
+2940 = {
+	name="Shikano"
+	culture = sanin
+}
+
+2941 = {
+	name="Yoshioka"
+	culture = sanin
+}
+
+# Hoki, Amago
+
+2942 = {
+	name="Kurayoshi"
+	culture = sanin
+}
+
+2943 = {
+	name="Hashizu"
+	culture = sanin
+}
+
+2944 = {
+	name="Ueshi"
+	culture = sanin
+}
+
+2945 = {
+	name="Odaka"
+	culture = sanin
+}
+
+2946 = {
+	name="Sakai"
+	culture = sanin
+}
+
+2947 = {
+	name="Yonago"
+	culture = sanin
+}
+
+2948 = {
+	name="Ebi"
+	culture = sanin
+}
+
+2949 = {
+	name="Shoyama"
+	culture = sanin
+}
+
+2950 = {
+	name="Kurosaka"
+	culture = sanin
+}
+
+# Izumo, Amago
+
+2951 = {
+	name="Toda"
+	culture = sanin
+}
+
+2952 = {
+	name="Yasugi"
+	culture = sanin
+}
+
+2953 = {
+	name="Makata"
+	culture = sanin
+}
+
+2954 = {
+	name="Shiraga"
+	culture = sanin
+}
+
+2955 = {
+	name="Miho"
+	culture = sanin
+}
+
+2956 = {
+	name="Suetsugu"
+	culture = sanin
+}
+
+2957 = {
+	name="Kizuki"
+	culture = sanin
+}
+
+2958 = {
+	name="Gakuenji"
+	culture = sanin
+}
+
+2959 = {
+	name="Enya"
+	culture = sanin
+}
+
+2960 = {
+	name="Yokota"
+	culture = sanin
+}
+
+2961 = {
+	name="Mitoya"
+	culture = sanin
+}
+
+2962 = {
+	name="Ushio"
+	culture = sanin
+}
+
+# Oki, Amago
+
+2963 = {
+	name="Saigo"
+	culture = sanin
+}
+
+2964 = {
+	name="Omosu"
+	culture = sanin
+}
+
+2965 = {
+	name="Inya"
+	culture = sanin
+}
+
+## Western Chugoku
+
+# Bingo, Bingo Kokujin
+
+2966 = {
+	name="Mitsugi"
+	culture = western_chugoku
+}
+
+2967 = {
+	name="Innoshima"
+	culture = western_chugoku
+}
+
+2968 = {
+	name="Mihara"
+	culture = western_chugoku
+}
+
+2969 = {
+	name="Miyoshi"
+	culture = western_chugoku
+}
+
+2970 = {
+	name="Kisa"
+	culture = western_chugoku
+}
+
+2971 = {
+	name="Mirasaka"
+	culture = western_chugoku
+}
+
+2972 = {
+	name="Koyama"
+	culture = western_chugoku
+}
+
+2973 = {
+	name="Jibi"
+	culture = western_chugoku
+}
+
+2974 = {
+	name="Kushiro"
+	culture = western_chugoku
+}
+
+2975 = {
+	name="Kannabe"
+	culture = western_chugoku
+}
+
+2976 = {
+	name="Tomo"
+	culture = western_chugoku
+}
+
+2977 = {
+	name="Sugihara"
+	culture = western_chugoku
+}
+
+2978 = {
+	name="Sagata"
+	culture = western_chugoku
+}
+
+2979 = {
+	name="Tabusa"
+	culture = western_chugoku
+}
+
+2980 = {
+	name="Miya"
+	culture = western_chugoku
+}
+
+# Aki, Mori
+
+2981 = {
+	name="Yoshida"
+	culture = western_chugoku
+}
+
+2982 = {
+	name="Fukuhara"
+	culture = western_chugoku
+}
+
+2983 = {
+	name="Tajihi"
+	culture = western_chugoku
+}
+
+2984 = {
+	name="Sakurao"
+	culture = western_chugoku
+}
+
+2985 = {
+	name="Sato"
+	culture = western_chugoku
+}
+
+2986 = {
+	name="Kusatsu"
+	culture = western_chugoku
+}
+
+2987 = {
+	name="Saijo"
+	culture = western_chugoku
+}
+
+2988 = {
+	name="Tojo"
+	culture = western_chugoku
+}
+
+2989 = {
+	name="Shiwa"
+	culture = western_chugoku
+}
+
+2990 = {
+	name="Takayama"
+	culture = western_chugoku
+}
+
+2991 = {
+	name="Kuba"
+	culture = western_chugoku
+}
+
+2992 = {
+	name="Mukunashi"
+	culture = western_chugoku
+}
+
+2993 = {
+	name="Ogura"
+	culture = western_chugoku
+}
+
+2994 = {
+	name="Hinoyama"
+	culture = western_chugoku
+}
+
+2995 = {
+	name="Oasa"
+	culture = western_chugoku
+}
+
+2996 = {
+	name="Miiri"
+	culture = western_chugoku
+}
+
+2997 = {
+	name="Niho"
+	culture = western_chugoku
+}
+
+2998 = {
+	name="Kamagari"
+	culture = western_chugoku
+}
+
+# Iwami, Iwami kokujin
+
+2999 = {
+	name="Yamabuki"
+	culture = western_chugoku
+}
+
+3000 = {
+	name="Fukumitsu"
+	culture = western_chugoku
+}
+
+3001 = {
+	name="Satsuka"
+	culture = western_chugoku
+}
+
+3002 = {
+	name="Kawamoto"
+	culture = western_chugoku
+}
+
+3003 = {
+	name="Izuha"
+	culture = western_chugoku
+}
+
+3004 = {
+	name="Honjo"
+	culture = western_chugoku
+}
+
+3005 = {
+	name="Mikamoto"
+	culture = western_chugoku
+}
+
+3006 = {
+	name="Hamada"
+	culture = western_chugoku
+}
+
+3007 = {
+	name="Misumi"
+	culture = western_chugoku
+}
+
+3008 = {
+	name="Masuda"
+	culture = western_chugoku
+}
+
+3009 = {
+	name="Tsuwano"
+	culture = western_chugoku
+}
+
+3010 = {
+	name="Yokota"
+	culture = western_chugoku
+}
+
+# Suo, Ouchi and Sue
+
+3011 = {
+	name="Tonda"
+	culture = western_chugoku
+}
+
+3012 = {
+	name="Tokuyama"
+	culture = western_chugoku
+}
+
+3013 = {
+	name="Suetake"
+	culture = western_chugoku
+}
+
+3014 = {
+	name="Shikiyama"
+	culture = western_chugoku
+}
+
+3015 = {
+	name="Tokuji"
+	culture = western_chugoku
+}
+
+3016 = {
+	name="Migita"
+	culture = western_chugoku
+}
+
+3017 = {
+	name="Kuga"
+	culture = western_chugoku
+}
+
+3018 = {
+	name="Iwakuni"
+	culture = western_chugoku
+}
+
+3019 = {
+	name="Sugimori"
+	culture = western_chugoku
+}
+
+3015000 = {
+	name="Tsukiyama"
+	culture = western_chugoku
+}
+
+3021 = {
+	name="Yamaguchi"
+	culture = western_chugoku
+}
+
+3022 = {
+	name="Ouchi"
+	culture = western_chugoku
+}
+
+3023 = {
+	name="Yashiro"
+	culture = western_chugoku
+}
+
+3024 = {
+	name="Kamado"
+	culture = western_chugoku
+}
+
+3025 = {
+	name="Kojiro"
+	culture = western_chugoku
+}
+
+#Nagato, Ouchi
+
+3026 = {
+	name="Katsuyama"
+	culture = western_chugoku
+}
+
+3027 = {
+	name="Yata"
+	culture = western_chugoku
+}
+
+3028 = {
+	name="Senzaki"
+	culture = western_chugoku
+}
+
+3029 = {
+	name="Aokage"
+	culture = western_chugoku
+}
+
+3030 = {
+	name="Omine"
+	culture = western_chugoku
+}
+
+3031 = {
+	name="Akiyoshi"
+	culture = western_chugoku
+}
+
+3032 = {
+	name="Tanai"
+	culture = western_chugoku
+}
+
+3033 = {
+	name="Habu"
+	culture = western_chugoku
+}
+
+3034 = {
+	name="Koto"
+	culture = western_chugoku
+}
+
+3035 = {
+	name="Hagi"
+	culture = western_chugoku
+}
+
+3036 = {
+	name="Oi"
+	culture = western_chugoku
+}
+
+3037 = {
+	name="Shizuki"
+	culture = western_chugoku
+}
+
+## Shikoku
+
+# Awaji, Atagi
+
+3038 = {
+	name="Yura"
+	culture = shikoku
+}
+
+3039 = {
+	name="Sumoto"
+	culture = shikoku
+}
+
+3040 = {
+	name="Shiota"
+	culture = shikoku
+}
+
+3041 = {
+	name="Ichimura"
+	culture = shikoku
+}
+
+3042 = {
+	name="Ama"
+	culture = shikoku
+}
+
+3043 = {
+	name="Shiota"
+	culture = shikoku
+}
+
+# Awa, Miyoshi
+
+3044 = {
+	name="Miyoshi"
+	culture = shikoku
+}
+
+3045 = {
+	name="Mima"
+	culture = shikoku
+}
+
+3046 = {
+	name="Sadamitsu"
+	culture = shikoku
+}
+
+3047 = {
+	name="Naruto"
+	culture = shikoku
+}
+
+3048 = {
+	name="Muya"
+	culture = shikoku
+}
+
+3049 = {
+	name="Bando"
+	culture = shikoku
+}
+
+3050 = {
+	name="Katsuura"
+	culture = shikoku
+}
+
+3051 = {
+	name="Nyuta"
+	culture = shikoku
+}
+
+3052 = {
+	name="Takashi"
+	culture = shikoku
+}
+
+3053 = {
+	name="Mugi"
+	culture = shikoku
+}
+
+3054 = {
+	name="Abeura"
+	culture = shikoku
+}
+
+3055 = {
+	name="Hirajima"
+	culture = shikoku
+}
+
+# Sanuki, Sogo
+
+3056 = {
+	name="Amataki"
+	culture = shikoku
+}
+
+3057 = {
+	name="Nagao"
+	culture = shikoku
+}
+
+3058 = {
+	name="Shirotori"
+	culture = shikoku
+}
+
+3059 = {
+	name="Yusa"
+	culture = shikoku
+}
+
+3060 = {
+	name="Kozai"
+	culture = shikoku
+}
+
+3061 = {
+	name="Sogo"
+	culture = shikoku
+}
+
+3062 = {
+	name="Amagiri"
+	culture = shikoku
+}
+
+3063 = {
+	name="Hayuka"
+	culture = shikoku
+}
+
+3064 = {
+	name="Takinomiya"
+	culture = shikoku
+}
+
+3065 = {
+	name="Nio"
+	culture = shikoku
+}
+
+3066 = {
+	name="Saita"
+	culture = shikoku
+}
+
+3067 = {
+	name="Takuma"
+	culture = shikoku
+}
+
+# Tosa, Ichijo, Chosokabe
+
+3068 = {
+	name="Muroto"
+	culture = shikoku
+}
+
+3069 = {
+	name="Yasuda"
+	culture = shikoku
+}
+
+3070 = {
+	name="Noichi"
+	culture = shikoku
+}
+
+3071 = {
+	name="Kochi"
+	culture = shikoku
+}
+
+3072 = {
+	name="Oko"
+	culture = shikoku
+}
+
+3073 = {
+	name="Kagami"
+	culture = shikoku
+}
+
+3074 = {
+	name="Ino"
+	culture = shikoku
+}
+
+3075 = {
+	name="Ikegawa"
+	culture = shikoku
+}
+
+3076 = {
+	name="Osaki"
+	culture = shikoku
+}
+
+3077 = {
+	name="Sukumo"
+	culture = shikoku
+}
+
+3078 = {
+	name="Shiratagawa"
+	culture = shikoku
+}
+
+3079 = {
+	name="Ekawasaki"
+	culture = shikoku
+}
+
+# Iyo, Kono, Saionji
+
+3080 = {
+	name="Mishima"
+	culture = shikoku
+}
+
+3081 = {
+	name="Sangawa"
+	culture = shikoku
+}
+
+3082 = {
+	name="Kawanoe"
+	culture = shikoku
+}
+
+3083 = {
+	name="Kuniyasu"
+	culture = shikoku
+}
+
+3084 = {
+	name="Imabari"
+	culture = shikoku
+}
+
+3085 = {
+	name="Tokuno"
+	culture = shikoku
+}
+
+3086 = {
+	name="Asakura"
+	culture = shikoku
+}
+
+3087 = {
+	name="Ikina"
+	culture = shikoku
+}
+
+3088 = {
+	name="Iwagi"
+	culture = shikoku
+}
+
+3089 = {
+	name="Kuwabara"
+	culture = shikoku
+}
+
+3090 = {
+	name="Kosaka"
+	culture = shikoku
+}
+
+3091 = {
+	name="Oguri"
+	culture = shikoku
+}
+
+3092 = {
+	name="Mitani"
+	culture = shikoku
+}
+
+3093 = {
+	name="Yogo"
+	culture = shikoku
+}
+
+3094 = {
+	name="Habu"
+	culture = shikoku
+}
+
+3095 = {
+	name="Kitayama"
+	culture = shikoku
+}
+
+3096 = {
+	name="Ozu"
+	culture = shikoku
+}
+
+3097 = {
+	name="Niiya"
+	culture = shikoku
+}
+
+3098 = {
+	name="Ikata"
+	culture = shikoku
+}
+
+3099 = {
+	name="Matsumaru"
+	culture = shikoku
+}
+
+3100 = {
+	name="Yawatahama"
+	culture = shikoku
+}
+
+### Kyushu
+
+## Northern Kyushu
+
+# Buzen, Bizen Kokujin
+
+3101 = {
+	name="Kokura"
+	culture = northern_kyushu
+}
+
+3102 = {
+	name="Moji"
+	culture = northern_kyushu
+}
+
+3103 = {
+	name="Sone"
+	culture = northern_kyushu
+}
+
+3104 = {
+	name="Kanda"
+	culture = northern_kyushu
+}
+
+3105 = {
+	name="Imai"
+	culture = northern_kyushu
+}
+
+3106 = {
+	name="Yukuhashi"
+	culture = northern_kyushu
+}
+
+3107 = {
+	name="Katsuragi"
+	culture = northern_kyushu
+}
+
+3108 = {
+	name="Shiida"
+	culture = northern_kyushu
+}
+
+3109 = {
+	name="Yatsuda"
+	culture = northern_kyushu
+}
+
+3110 = {
+	name="Ajimu"
+	culture = northern_kyushu
+}
+
+3111 = {
+	name="Usa"
+	culture = northern_kyushu
+}
+
+3112 = {
+	name="Innai"
+	culture = northern_kyushu
+}
+
+# Chikuzen, Chikuzen Kokujin
+
+3113 = {
+	name="Koyanose"
+	culture = northern_kyushu
+}
+
+3114 = {
+	name="Ashiya"
+	culture = northern_kyushu
+}
+
+3115 = {
+	name="Nogata"
+	culture = northern_kyushu
+}
+
+3116 = {
+	name="Fukuma"
+	culture = northern_kyushu
+}
+
+3117 = {
+	name="Tsuyazaki"
+	culture = northern_kyushu
+}
+
+3118 = {
+	name="Akama"
+	culture = northern_kyushu
+}
+
+3119 = {
+	name="Usui"
+	culture = northern_kyushu
+}
+
+3115000 = {
+	name="Inatsuki"
+	culture = northern_kyushu
+}
+
+3121 = {
+	name="Honami"
+	culture = northern_kyushu
+}
+
+3122 = {
+	name="Akizuki"
+	culture = northern_kyushu
+}
+
+3123 = {
+	name="Yasu"
+	culture = northern_kyushu
+}
+
+3124 = {
+	name="Ukiha"
+	culture = northern_kyushu
+}
+
+3125 = {
+	name="Mizuki"
+	culture = northern_kyushu
+}
+
+3126 = {
+	name="Chikushi"
+	culture = northern_kyushu
+}
+
+3127 = {
+	name="Mikasa"
+	culture = northern_kyushu
+}
+
+3128 = {
+	name="Umi"
+	culture = northern_kyushu
+}
+
+3129 = {
+	name="Kashii"
+	culture = northern_kyushu
+}
+
+3130 = {
+	name="Hakozaki"
+	culture = northern_kyushu
+}
+
+3131 = {
+	name="Fukuyoshi"
+	culture = northern_kyushu
+}
+
+3132 = {
+	name="Meinohama"
+	culture = northern_kyushu
+}
+
+3133 = {
+	name="Fukae"
+	culture = northern_kyushu
+}
+
+# Hizen, Ryuzoji and Shoni
+
+3134 = {
+	name="Tosu"
+	culture = northern_kyushu
+}
+
+3135 = {
+	name="Sayama"
+	culture = northern_kyushu
+}
+
+3136 = {
+	name="Asahi"
+	culture = northern_kyushu
+}
+
+3137 = {
+	name="Nabeshima"
+	culture = northern_kyushu
+}
+
+3138 = {
+	name="Saga"
+	culture = northern_kyushu
+}
+
+3139 = {
+	name="Kubota"
+	culture = northern_kyushu
+}
+
+3140 = {
+	name="Nagoya"
+	culture = northern_kyushu
+}
+
+3141 = {
+	name="Nanayama"
+	culture = northern_kyushu
+}
+
+3142 = {
+	name="Onizuka"
+	culture = northern_kyushu
+}
+
+3143 = {
+	name="Imari"
+	culture = northern_kyushu
+}
+
+3144 = {
+	name="Arita"
+	culture = northern_kyushu
+}
+
+3145 = {
+	name="Saza"
+	culture = northern_kyushu
+}
+
+3146 = {
+	name="Tamanoura"
+	culture = northern_kyushu
+}
+
+3147 = {
+	name="Naru"
+	culture = northern_kyushu
+}
+
+3148 = {
+	name="Fukue"
+	culture = northern_kyushu
+}
+
+3149 = {
+	name="Takeo"
+	culture = northern_kyushu
+}
+
+3150 = {
+	name="Kitagata"
+	culture = northern_kyushu
+}
+
+3151 = {
+	name="Fukudomi"
+	culture = northern_kyushu
+}
+
+3152 = {
+	name="Sasebo"
+	culture = northern_kyushu
+}
+
+3153 = {
+	name="Togitsu"
+	culture = northern_kyushu
+}
+
+3154 = {
+	name="Omura"
+	culture = northern_kyushu
+}
+
+3155 = {
+	name="Isahaya"
+	culture = northern_kyushu
+}
+
+3156 = {
+	name="Shimabara"
+	culture = northern_kyushu
+}
+
+3157 = {
+	name="Konagai"
+	culture = northern_kyushu
+}
+
+# Iki, Matsura
+
+3158 = {
+	name="Ishida"
+	culture = northern_kyushu
+}
+
+3159 = {
+	name="Kazamoto"
+	culture = northern_kyushu
+}
+
+3160 = {
+	name="Ashibe"
+	culture = northern_kyushu
+}
+
+# Tsushima, Matsura
+
+3161 = {
+	name="Kamiagata"
+	culture = northern_kyushu
+}
+
+3162 = {
+	name="Funakoshi"
+	culture = northern_kyushu
+}
+
+3163 = {
+	name="Shimoagata"
+	culture = northern_kyushu
+}
+
+## Central Kyushu
+
+# Bungo, Otomo
+
+3164 = {
+	name="Kunimi"
+	culture = central_kyushu
+}
+
+3165 = {
+	name="Kibe"
+	culture = central_kyushu
+}
+
+3166 = {
+	name="Himeshima"
+	culture = central_kyushu
+}
+
+3167 = {
+	name="Beppu"
+	culture = central_kyushu
+}
+
+3168 = {
+	name="Hiji"
+	culture = central_kyushu
+}
+
+3169 = {
+	name="Kitsuki"
+	culture = central_kyushu
+}
+
+3170 = {
+	name="Yufuin"
+	culture = central_kyushu
+}
+
+3171 = {
+	name="Shonai"
+	culture = central_kyushu
+}
+
+3172 = {
+	name="Tsurunai"
+	culture = central_kyushu
+}
+
+3173 = {
+	name="Usuki"
+	culture = central_kyushu
+}
+
+3174 = {
+	name="Tsukumi"
+	culture = central_kyushu
+}
+
+3175 = {
+	name="Saganoseki"
+	culture = central_kyushu
+}
+
+3176 = {
+	name="Ogi"
+	culture = central_kyushu
+}
+
+3177 = {
+	name="Taketa"
+	culture = central_kyushu
+}
+
+3178 = {
+	name="Kuju"
+	culture = central_kyushu
+}
+
+3179 = {
+	name="Maetsue"
+	culture = central_kyushu
+}
+
+3180 = {
+	name="Hita"
+	culture = central_kyushu
+}
+
+3181 = {
+	name="Nakatsue"
+	culture = central_kyushu
+}
+
+# Chikugo, Kamachi and Kikuchi
+
+3182 = {
+	name="Yoshii"
+	culture = central_kyushu
+}
+
+3183 = {
+	name="Ukiha"
+	culture = central_kyushu
+}
+
+3184 = {
+	name="Himeharu"
+	culture = central_kyushu
+}
+
+3185 = {
+	name="Kitano"
+	culture = central_kyushu
+}
+
+3186 = {
+	name="Kurume"
+	culture = central_kyushu
+}
+
+3187 = {
+	name="Yuge"
+	culture = central_kyushu
+}
+
+3188 = {
+	name="Shimotsuma"
+	culture = central_kyushu
+}
+
+3189 = {
+	name="Kozuma"
+	culture = central_kyushu
+}
+
+3190 = {
+	name="Kurogi"
+	culture = central_kyushu
+}
+
+3191 = {
+	name="Okawa"
+	culture = central_kyushu
+}
+
+3192 = {
+	name="Enokizu"
+	culture = central_kyushu
+}
+
+3193 = {
+	name="Mimata"
+	culture = central_kyushu
+}
+
+3194 = {
+	name="Kamachi"
+	culture = central_kyushu
+}
+
+3195 = {
+	name="Yanagawa"
+	culture = central_kyushu
+}
+
+3196 = {
+	name="Omuta"
+	culture = central_kyushu
+}
+
+# Higo, Aso and Sagara
+
+3197 = {
+	name="Ushibuka"
+	culture = central_kyushu
+}
+
+3198 = {
+	name="Hondo"
+	culture = central_kyushu
+}
+
+3199 = {
+	name="Matsushima"
+	culture = central_kyushu
+}
+
+3150000 = {
+	name="Minamata"
+	culture = central_kyushu
+}
+
+3150001 = {
+	name="Yatsushiro"
+	culture = central_kyushu
+}
+
+3150002 = {
+	name="Ashikita"
+	culture = central_kyushu
+}
+
+3150003 = {
+	name="Taragi"
+	culture = central_kyushu
+}
+
+3150004 = {
+	name="Hitoyoshi"
+	culture = central_kyushu
+}
+
+3150005 = {
+	name="Mizukami"
+	culture = central_kyushu
+}
+
+3150006 = {
+	name="Kosa"
+	culture = central_kyushu
+}
+
+3150007 = {
+	name="Mifune"
+	culture = central_kyushu
+}
+
+3150008 = {
+	name="Matsubase"
+	culture = central_kyushu
+}
+
+3150009 = {
+	name="Shiranuhi"
+	culture = central_kyushu
+}
+
+3210 = {
+	name="Misumi"
+	culture = central_kyushu
+}
+
+3211 = {
+	name="Hanazono"
+	culture = central_kyushu
+}
+
+3212 = {
+	name="Honjo"
+	culture = central_kyushu
+}
+
+3213 = {
+	name="Oe"
+	culture = central_kyushu
+}
+
+3214 = {
+	name="Harutake"
+	culture = central_kyushu
+}
+
+3215 = {
+	name="Tamana"
+	culture = central_kyushu
+}
+
+3216 = {
+	name="Takase"
+	culture = central_kyushu
+}
+
+3217 = {
+	name="Arao"
+	culture = central_kyushu
+}
+
+3218 = {
+	name="Kikuchi"
+	culture = central_kyushu
+}
+
+3219 = {
+	name="Ozu"
+	culture = central_kyushu
+}
+
+3215000 = {
+	name="Jinnai"
+	culture = central_kyushu
+}
+
+3221 = {
+	name="Takamori"
+	culture = central_kyushu
+}
+
+3222 = {
+	name="Yabe"
+	culture = central_kyushu
+}
+
+3223 = {
+	name="Oguni"
+	culture = central_kyushu
+}
+
+## Southern Kyushu
+
+# Hyuga, Hyuga kokujin
+
+3224 = {
+	name="Osaki"
+	culture = southern_kyushu
+}
+
+3225 = {
+	name="Shibushi"
+	culture = southern_kyushu
+}
+
+3226 = {
+	name="Matsuyama"
+	culture = southern_kyushu
+}
+
+3227 = {
+	name="Miyazaki"
+	culture = southern_kyushu
+}
+
+3228 = {
+	name="Aburatsu"
+	culture = southern_kyushu
+}
+
+3229 = {
+	name="Kiyotake"
+	culture = southern_kyushu
+}
+
+3230 = {
+	name="Takanabe"
+	culture = southern_kyushu
+}
+
+3231 = {
+	name="Mimitsu"
+	culture = southern_kyushu
+}
+
+3232 = {
+	name="Tsuno"
+	culture = southern_kyushu
+}
+
+3233 = {
+	name="Hososhima"
+	culture = southern_kyushu
+}
+
+3234 = {
+	name="Tajima"
+	culture = southern_kyushu
+}
+
+3235 = {
+	name="Okatomi"
+	culture = southern_kyushu
+}
+
+# Osumi, Kimotsuki and Hongo
+
+3236 = {
+	name="Hishikari"
+	culture = southern_kyushu
+}
+
+3237 = {
+	name="Kajiki"
+	culture = southern_kyushu
+}
+
+3238 = {
+	name="Kurino"
+	culture = southern_kyushu
+}
+
+3239 = {
+	name="Aira"
+	culture = southern_kyushu
+}
+
+3240 = {
+	name="Meguri"
+	culture = southern_kyushu
+}
+
+3241 = {
+	name="Nogata"
+	culture = southern_kyushu
+}
+
+3242 = {
+	name="Ushine"
+	culture = southern_kyushu
+}
+
+3243 = {
+	name="Kanoya"
+	culture = southern_kyushu
+}
+
+3244 = {
+	name="Tarumizu"
+	culture = southern_kyushu
+}
+
+3245 = {
+	name="Kumage"
+	culture = southern_kyushu
+}
+
+3246 = {
+	name="Nishinoomote"
+	culture = southern_kyushu
+}
+
+3247 = {
+	name="Nakatane"
+	culture = southern_kyushu
+}
+
+# Satsuma, Shimazu
+
+3248 = {
+	name="Yoshida"
+	culture = southern_kyushu
+}
+
+3249 = {
+	name="Ishiki"
+	culture = southern_kyushu
+}
+
+3250 = {
+	name="Taniyama"
+	culture = southern_kyushu
+}
+
+3251 = {
+	name="Akune"
+	culture = southern_kyushu
+}
+
+3252 = {
+	name="Izumi"
+	culture = southern_kyushu
+}
+
+3253 = {
+	name="Nagashima"
+	culture = southern_kyushu
+}
+
+3254 = {
+	name="Kumanojo"
+	culture = southern_kyushu
+}
+
+3255 = {
+	name="Sendai"
+	culture = southern_kyushu
+}
+
+3256 = {
+	name="Takae"
+	culture = southern_kyushu
+}
+
+3257 = {
+	name="Yamagawa"
+	culture = southern_kyushu
+}
+
+3258 = {
+	name="Ibusuki"
+	culture = southern_kyushu
+}
+
+3259 = {
+	name="Imaizumi"
+	culture = southern_kyushu
+}
+
+3260 = {
+	name="Kawanabe"
+	culture = southern_kyushu
+}
+
+3261 = {
+	name="Kaseda"
+	culture = southern_kyushu
+}
+
+3262 = {
+	name="Makurazaki"
+	culture = southern_kyushu
+}
+
+3263 = {
+	name="Hioki"
+	culture = southern_kyushu
+}
+
+3264 = {
+	name="Kushikino"
+	culture = southern_kyushu
+}
+
+3265 = {
+	name="Ijuin"
+	culture = southern_kyushu
+}
+
+3266 = {
+	name="Nakanoshima"
+	culture = southern_kyushu
+}
+
+3267 = {
+	name="Takarajima"
+	culture = southern_kyushu
+}
+
+3268 = {
+	name="Kuchinoshima"
+	culture = southern_kyushu
+}
+
+### Okinawa
+
+## Amami
+
+# Amami
+
+3269 = {
+	name="Kikai"
+	culture = amami
+}
+
+3270 = {
+	name="Shitooke"
+	culture = amami
+}
+
+3271 = {
+	name="Higashi"
+	culture = amami
+}
+
+3272 = {
+	name="Naze"
+	culture = amami
+}
+
+3273 = {
+	name="Higashikata"
+	culture = amami
+}
+
+3274 = {
+	name="Kasari"
+	culture = amami
+}
+
+3275 = {
+	name="Tokunoshima"
+	culture = amami
+}
+
+3276 = {
+	name="Omonawa"
+	culture = amami
+}
+
+3277 = {
+	name="Nishime"
+	culture = amami
+}
+
+3278 = {
+	name="Okinarabu"
+	culture = amami
+}
+
+3279 = {
+	name="Yoron"
+	culture = amami
+}
+
+3280 = {
+	name="Zennoji"
+	culture = amami
+}
+
+## Okinawa
+
+3281 = {
+	name="Ozato"
+	culture = okinawa
+}
+
+3282 = {
+	name="Gokokuji"
+	culture = okinawa
+}
+
+3283 = {
+	name="Enkakuji"
+	culture = okinawa
+}
+
+3284 = {
+	name="Ie"
+	culture = okinawa
+}
+
+3285 = {
+	name="Idana"
+	culture = okinawa
+}
+
+3286 = {
+	name="Tana"
+	culture = okinawa
+}
+
+3287 = {
+	name="Nagijin"
+	culture = okinawa
+}
+
+3288 = {
+	name="Nago"
+	culture = okinawa
+}
+
+3289 = {
+	name="Haneji"
+	culture = okinawa
+}
+
+3290 = {
+	name="Urasoe"
+	culture = okinawa
+}
+
+3291 = {
+	name="Nakagusuku"
+	culture = okinawa
+}
+
+3292 = {
+	name="Zakimi"
+	culture = okinawa
+}
+
+3293 = {
+	name="Gushikawa"
+	culture = okinawa
+}
+
+3294 = {
+	name="Ishikinawa"
+	culture = okinawa
+}
+
+3295 = {
+	name="Uegusuku"
+	culture = okinawa
+}
+
+## Sakishima
+
+3296 = {
+	name="Miyako"
+	culture = sakishima
+}
+
+3297 = {
+	name="Irabu"
+	culture = sakishima
+}
+
+3298 = {
+	name="Tarama"
+	culture = sakishima
+}
+
+3299 = {
+	name="Ishigaki"
+	culture = sakishima
+}
+
+3300 = {
+	name="Nishiomote"
+	culture = sakishima
+}
+
+3301 = {
+	name="Takenoshima"
+	culture = sakishima
+}
+
+3302 = {
+	name="Yonaguni"
+	culture = sakishima
+}
+
+3303 = {
+	name="Kubura"
+	culture = sakishima
+}
+
+3304 = {
+	name="Higawa"
+	culture = sakishima
+}
+
+### Wajinchi
+
+## Oshima, Kakizaki
+
+3305 = {
+	name="Niita"
+	culture = crimson_demonc
+}
+
+3306 = {
+	name="Nakadate"
+	culture = crimson_demonc
+}
+
+3307 = {
+	name="Tanaka"
+	culture = crimson_demonc
+}
+
+3308 = {
+	name="Okasaki"
+	culture = crimson_demonc
+}
+
+3309 = {
+	name="Mikami"
+	culture = crimson_demonc
+}
+
+3310 = {
+	name="Fukushi"
+	culture = crimson_demonc
+}
+
+3311 = {
+	name="Ruike"
+	culture = crimson_demonc
+}
+
+3312 = {
+	name="Nishizawa"
+	culture = crimson_demonc
+}
+
+3313 = {
+	name="Kon"
+	culture = crimson_demonc
+}
+
+3314 = {
+	name="Sakuraba"
+	culture = crimson_demonc
+}
+
+3315 = {
+	name="Kimura"
+	culture = crimson_demonc
+}
+
+3316 = {
+	name="Akumushi"
+	culture = crimson_demonc
+}
+
+3317 = {
+	name="Nurita"
+	culture = crimson_demonc
+}
+
+3318 = {
+	name="Nishimura"
+	culture = crimson_demonc
+}
+
+3319 = {
+	name="Sugioka"
+	culture = crimson_demonc
+}
+
+3315000 = {
+	name="Toriyabe"
+	culture = crimson_demonc
+}
+
+3321 = {
+	name="Matsubashi"
+	culture = crimson_demonc
+}
+
+3322 = {
+	name="Shichinobe"
+	culture = crimson_demonc
+}

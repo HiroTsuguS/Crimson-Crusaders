@@ -1,0 +1,17 @@
+character_event = {	
+	id = CM.1
+	desc = CMDESC_1
+	title = EVTTITLE_CM_EXPLOSION
+	
+	picture = GFX_evt_china_open
+    border = GFX_event_normal_frame_diplomacy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = CM.1_button
+		add_trait = explosion
+		
+		
+	}
+}

@@ -1,0 +1,15 @@
+explosion = { # Explosion magic
+	leader = yes
+	potential = {
+		OR = {
+			culture = crimson_demonc
+		
+		}
+	}
+
+	command_modifier = {
+		damage = 2.0
+		morale_offence = 2.0
+		siege = 10.0
+	}
+}

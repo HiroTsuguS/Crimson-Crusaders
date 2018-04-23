@@ -1,0 +1,27 @@
+decisions = {
+ explosion_magic_learn = {
+  is_high_prio = yes
+  potential = {
+   OR = {
+    culture_group = crimson_demon
+    religion = crimson_mage
+   }
+   NOT = {
+    trait = explosion
+   }
+  }
+  allow = {
+   culture_group = crimson_demon
+   religion = crimson_mage
+  }
+  effect = {
+   character_event = { id = CM.1 }
+  }
+  revoke_allowed = {
+   always = no
+  }
+  ai_will_do = {
+   factor = 1
+  }
+ }
+}
