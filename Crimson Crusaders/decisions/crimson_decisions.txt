@@ -15,7 +15,7 @@ decisions = {
    religion = crimson_mage
   }
   effect = {
-   character_event = { id = CM.1 }
+   character_event = { id = CC.1 }
   }
   revoke_allowed = {
    always = no

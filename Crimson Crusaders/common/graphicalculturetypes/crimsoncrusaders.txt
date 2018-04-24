@@ -1,3 +1,0 @@
-crimsongfx = {
-		skin_tone = 0
-}

@@ -1,0 +1,191 @@
+namespace = CC
+character_event = {	
+	id = CC.1
+	desc = CCDESC_1
+	title = EVTTITLE_CC_EXPLOSION
+	
+	picture = GFX_evt_china_open
+    border = GFX_event_normal_frame_diplomacy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = CC.1_button
+		add_trait = explosion
+		
+		
+	}
+}
+
+character_event = {
+		id = CC.2
+		desc = CCDESC_2
+		title = EVTTITLE_CC_SPAWN_CRIMSON
+		
+		picture = GFX_evt_china_open
+		border = GFX_event_normal_frame_diplomacy
+		
+		only_playable = yes
+		religion_group = indian_group
+		NOT = {
+				religion = crimson_mage
+				}
+		trigger = {
+			any_realm_province = {
+				trade_route = silk_road
+				}
+			OR = {
+			trait = mystic
+			AND = { 
+				trait = scholar
+				trait = cynical
+				
+				}
+			}		
+		}
+			
+		
+		mean_time_to_happen = {
+		months = 2400
+		modifier = {
+					factor = 0
+					NOT = {
+						any_realm_province = {
+							trade_route = silk_road
+						}
+					}
+				}	
+		modifier = {
+			factor = 0.1
+			OR = {
+				trait = mystic
+				AND = { 
+					trait = scholar
+					trait = cynical
+					
+				}
+			}			
+		}
+	}
+		option = {
+			name = CC.2_allow_magic_traveler
+			ai_chance = {
+				factor = 95
+				}	
+			create_character = {
+							religion = crimson_mage
+							culture = crimson_demonc
+							dynasty = none
+							age = 25
+							random_traits = yes
+							attributes = {
+								learning = 20
+							}
+							health = 6
+							trait = explosion
+
+						}
+			}
+		
+		option = {
+			name = CC.2_teach_me_magic
+			ai_chance = {
+				factor = 2
+				modifier = {
+					factor = 500
+					trait = mystic
+					}
+				}
+				modifier = {
+					factor = 500
+					AND = { 
+					trait = scholar
+					trait = cynical
+					}
+				}
+			set_character_flag = learning_crimson_magic
+			create_character = {
+							religion = crimson_mage
+							culture = crimson_demonc
+							dynasty = none
+							age = 25
+							random_traits = yes
+							attributes = {
+								learning = 20
+							}
+							health = 6
+							trait = explosion
+
+						}
+			}
+		
+		option = {
+			name = CC.2_burn_the_witch
+			ai_chance = {
+				factor = 2
+				modifier = {
+					factor = 500
+					trait = zealous
+					}
+				}
+			
+			piety = 30
+			}
+}
+
+character_event = {
+		id = CC.3
+		desc = CCDESC_3
+		title = EVTTITLE_CC_LEARNED_CRIMSON_MAGIC
+		
+		picture = GFX_evt_china_open
+		border = GFX_event_normal_frame_diplomacy
+		
+		trigger = {
+			has_character_flag = learning_crimson_magic
+			
+				}
+		
+		option = {
+			name = CC.3_learned_magic
+			
+			clr_character_flag = learning_crimson_magic
+			religion = crimson_mage
+			culture = crimson_demonc
+			add_trait = explosion
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

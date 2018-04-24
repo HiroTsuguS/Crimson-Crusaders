@@ -2,7 +2,7 @@ crimson_demon = {
 	graphical_cultures = { westerngfx }
 
 	crimson_demonc = {
-		graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+		graphical_cultures = { englishgfx westerngfx }
 		
 		color = { 0.62 0.23 0.24 }
 

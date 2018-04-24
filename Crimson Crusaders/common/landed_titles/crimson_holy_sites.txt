@@ -1,0 +1,19 @@
+c_lhasa {
+		holy_site = crimson_mage
+		}
+
+c_purang {
+		holy_site = crimson_mage
+		}
+		
+c_srirangapatna {
+		holy_site = crimson_mage
+		}
+		
+c_gaya {
+		holy_site = crimson_mage
+		}
+		
+c_multan {
+		holy_site = crimson_mage
+		}
