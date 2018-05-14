@@ -27,8 +27,9 @@ character_event = {
 		
 		only_playable = yes
 		religion_group = indian_group
-		NOT = {
+		NOR = {
 				religion = crimson_mage
+				set_character_flag = crimson_mage_arrived
 				}
 		trigger = {
 			any_realm_province = {
@@ -46,32 +47,15 @@ character_event = {
 			
 		
 		mean_time_to_happen = {
-		months = 2400
-		modifier = {
-					factor = 0
-					NOT = {
-						any_realm_province = {
-							trade_route = silk_road
-						}
-					}
-				}	
-		modifier = {
-			factor = 0.1
-			OR = {
-				trait = mystic
-				AND = { 
-					trait = scholar
-					trait = cynical
-					
-				}
-			}			
-		}
+		months = 6
+	
 	}
 		option = {
 			name = CC.2_allow_magic_traveler
 			ai_chance = {
 				factor = 95
 				}	
+			set_character_flag = crimson_mage_arrived
 			create_character = {
 							religion = crimson_mage
 							culture = crimson_demonc
@@ -103,6 +87,7 @@ character_event = {
 					trait = cynical
 					}
 				}
+			set_character_flag = crimson_mage_arrived
 			set_character_flag = learning_crimson_magic
 			create_character = {
 							religion = crimson_mage
@@ -128,7 +113,7 @@ character_event = {
 					trait = zealous
 					}
 				}
-			
+			set_character_flag = crimson_mage_arrived
 			piety = 30
 			}
 }
@@ -140,11 +125,12 @@ character_event = {
 		
 		picture = GFX_evt_china_open
 		border = GFX_event_normal_frame_diplomacy
-		
 		trigger = {
-			has_character_flag = learning_crimson_magic
-			
-				}
+		has_character_flag = learning_crimson_magic
+		}
+		mean_time_to_happen = {
+		months = 12
+	}
 		
 		option = {
 			name = CC.3_learned_magic

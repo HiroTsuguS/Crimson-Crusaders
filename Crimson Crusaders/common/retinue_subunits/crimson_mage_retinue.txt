@@ -14,10 +14,10 @@ RETTYPE_CUL_MAGE =
 	}
 	
 	modifier = {
-		archers_offensive = 1.0
+		archers_offensive = 3.0
 		archers_defensive = -0.5
 		pikemen_offensive = -0.5
-		pikemen_defensive = 0.75
+		pikemen_defensive = 2.0
 	}
 }
 
@@ -37,9 +37,9 @@ RETTYPE_CUL_MAGE2 =
 	}
 	
 	modifier = {
-		archers_offensive = 1.0
+		archers_offensive = 3.0
 		archers_defensive = -0.5
 		pikemen_offensive = -0.5
-		pikemen_defensive = 0.75
+		pikemen_defensive = 2.0
 	}
 }
