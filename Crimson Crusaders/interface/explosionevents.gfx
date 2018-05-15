@@ -1,0 +1,22 @@
+
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_explosion_magic_learn"
+		texturefile = "gfx\\interface\\learn_explosion_icon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_evt_bakuretsu"
+		texturefile = "gfx\\crimson_event_pictures\\explosion.dds"
+	}
+	spriteType = {
+		name = "GFX_evt_megumin"
+		texturefile = "gfx\\crimson_event_pictures\\megumin.dds"
+	}
+	spriteType = {
+		name = "GFX_evt_path_explode"
+		texturefile = "gfx\\crimson_event_pictures\\explosion_path.dds"
+	}
+
+}

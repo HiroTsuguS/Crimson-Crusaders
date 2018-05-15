@@ -1,10 +1,10 @@
 namespace = CC
-character_event = {	
+character_event = {	# Learn Explosion Magic Decision Event
 	id = CC.1
 	desc = CCDESC_1
 	title = EVTTITLE_CC_EXPLOSION
 	
-	picture = GFX_evt_china_open
+	picture = GFX_evt_bakuretsu
     border = GFX_event_normal_frame_diplomacy
 	
 	is_triggered_only = yes
@@ -17,21 +17,24 @@ character_event = {
 	}
 }
 
-character_event = {
+character_event = { #A Crimson Mage willing to teach comes
 		id = CC.2
 		desc = CCDESC_2
 		title = EVTTITLE_CC_SPAWN_CRIMSON
 		
-		picture = GFX_evt_china_open
+		picture = GFX_evt_megumin
 		border = GFX_event_normal_frame_diplomacy
 		
 		only_playable = yes
 		religion_group = indian_group
-		NOR = {
-				religion = crimson_mage
-				set_character_flag = crimson_mage_arrived
-				}
+		
 		trigger = {
+			
+			NOR = {
+				religion = crimson_mage
+				has_character_flag = crimson_mage_arrived
+				}
+				
 			any_realm_province = {
 				trade_route = silk_road
 				}
@@ -50,7 +53,7 @@ character_event = {
 		months = 6
 	
 	}
-		option = {
+		option = { #Allow them to stay but don't learn
 			name = CC.2_allow_magic_traveler
 			ai_chance = {
 				factor = 95
@@ -71,7 +74,7 @@ character_event = {
 						}
 			}
 		
-		option = {
+		option = { #Request that they teach you
 			name = CC.2_teach_me_magic
 			ai_chance = {
 				factor = 2
@@ -104,7 +107,7 @@ character_event = {
 						}
 			}
 		
-		option = {
+		option = { #BURN THE WITCH
 			name = CC.2_burn_the_witch
 			ai_chance = {
 				factor = 2
@@ -118,12 +121,12 @@ character_event = {
 			}
 }
 
-character_event = {
+character_event = {  #Leaned the ways of crimson magic
 		id = CC.3
 		desc = CCDESC_3
 		title = EVTTITLE_CC_LEARNED_CRIMSON_MAGIC
 		
-		picture = GFX_evt_china_open
+		picture = GFX_evt_path_explode
 		border = GFX_event_normal_frame_diplomacy
 		trigger = {
 		has_character_flag = learning_crimson_magic
@@ -140,38 +143,5 @@ character_event = {
 			culture = crimson_demonc
 			add_trait = explosion
 			}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
